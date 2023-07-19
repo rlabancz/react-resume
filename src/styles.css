@@ -1,0 +1,21 @@
+.fullPageContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftSide,
+.rightSide {
+    display: flex;
+    flex-direction: column;
+}
+
+.leftSide {
+    background: #3FA7D6;
+    color: #FFFFFF;
+    padding: 8px;
+    width: 25%;
+}
+
+.rightSide {
+    width: 75%;
+}

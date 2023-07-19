@@ -1,0 +1,106 @@
+{
+  "profile": {
+    "name": "Robert Labancz",
+    "label": "",
+    "picture": "",
+    "email": "robert.labancz@gmail.com",
+    "phone": "650-283-5445",
+    "website": "",
+    "summary": "Engineering Manager",
+    "location": "Bay Area",
+    "address": {
+      "street": "",
+      "city": "",
+      "countryCode": "",
+      "postalCode": "",
+      "region": ""
+    },
+    "username": "rlabancz",
+    "socialMedia": [{
+      "icon": "",
+      "network": "",
+      "username": "",
+      "url": ""
+    }]
+  },
+  "work": [{
+    "company": "Tesla",
+    "title": "Software Engineering Manager",
+    "location": "Fremont",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "description": [
+      "blah",
+      "blah2"
+    ]
+  },
+    {
+      "company": "Tesla",
+      "title": "Staff Software Engineer",
+      "location": "Fremont",
+      "website": "",
+      "startDate": "",
+      "summary": "",
+      "description": [
+        "blah",
+        "blah2"
+      ]
+    }],
+  "education": [{
+    "institution": "u of t",
+    "area": "astrophyics",
+    "studyType": "",
+    "startDate": "2006",
+    "endDate": "2011",
+    "location": ""
+  }],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "location": "",
+    "startDate": "",
+    "endDate": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "location": "",
+    "awarder": "",
+    "summary": [
+      ""
+    ]
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "",
+    "level": 5
+  }],
+  "personalSkills": [
+    ""
+  ],
+  "languages": [{
+    "language": "",
+    "fluency": ""
+  }],
+  "interests": [{
+    "name": ""
+  }],
+  "reference": [{
+    "name": "",
+    "position": "",
+    "company": "",
+    "address": [],
+    "phone": "",
+    "email": ""
+  }]
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Sample McSample",
+    "label": "",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "countryCode": "",
+      "postalCode": "",
+      "region": ""
+    },
+    "profiles": [{
+      "network": "",
+      "username": "",
+      "url": ""
+    }]
+  },
+  "work": [{
+    "company": "",
+    "position": "",
+    "location": "",
+    "website": "",
+    "startDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "",
+    "area": "",
+    "studyType": "",
+    "startDate": "",
+    "endDate": "",
+    "location": ""
+  }],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "location": "",
+    "startDate": "",
+    "endDate": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "location": "",
+    "awarder": "",
+    "summary": [
+      ""
+    ]
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "",
+    "level": 5
+  }],
+  "personalSkills": [
+    ""
+  ],
+  "languages": [{
+    "language": "",
+    "fluency": ""
+  }],
+  "interests": [{
+    "name": ""
+  }],
+  "reference": [{
+    "name": "",
+    "position": "",
+    "company": "",
+    "address": [],
+    "phone": "",
+    "email": ""
+  }]
+}
