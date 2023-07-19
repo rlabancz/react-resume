@@ -15,3 +15,9 @@
     text-transform: uppercase;
     text-underline-offset: 12px;
 }
+
+.title {
+    font-size: 16px;
+    font-weight: lighter;
+    margin: 24px 0;
+}

@@ -35,15 +35,19 @@ function App() {
         <div className="Page">
             {data ?
                 <div className={`fullPageContainer`}>
-                    <div className={`leftSide`}>
+                    <div className={`leftSideContainer`}>
+
                         <Section title={`Contact`} icon={`person`} body={<Contact data={data.profile}/>}/>
                         <Section title={`Skills`} icon={`psychology`}/>
                         <Section title={`Education`} icon={`school`} body={<Education data={data.education}/>}/>
-                        <Section title={`Awards`} icon={`award_star`}/>
+                        <Section title={`Awards`} icon={`emoji_events`}/>
                     </div>
-                    <div className={`rightSide`}>
+                    <div className={`rightSideContainer`}>
                         <Header data={data.profile}/>
-                        <Section title="Experience" icon={`work`} body={<WorkExperience data={data.work}/>}/>
+                        <div className={`rightSideContent`}>
+                            <Section title="Objective" icon={`crisis_alert`}/>
+                            <Section title="Experience" icon={`work`} body={<WorkExperience data={data.work}/>}/>
+                        </div>
                     </div>
                 </div>
                 :

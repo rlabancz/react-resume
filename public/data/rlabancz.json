@@ -6,15 +6,8 @@
     "email": "sample@gmail.com",
     "phone": "123-123-1234",
     "website": "",
-    "summary": "Engineering Manager",
+    "summary": "Software Engineering Manager",
     "location": "Bay Area",
-    "address": {
-      "street": "",
-      "city": "",
-      "countryCode": "",
-      "postalCode": "",
-      "region": ""
-    },
     "username": "rlabancz",
     "socialMedia": [{
       "icon": "",
@@ -23,37 +16,106 @@
       "url": ""
     }]
   },
+  "objective": {
+
+  },
   "work": [{
     "company": "Tesla",
     "title": "Software Engineering Manager",
-    "location": "Fremont",
-    "website": "",
-    "startDate": "",
-    "summary": "",
+    "location": "Fremont, CA",
+    "website": "https://www.tesla.com",
+    "startDate": "Sept. 2022",
     "description": [
       "blah",
       "blah2"
     ]
   },
     {
-      "company": "Tesla",
+      "company": "",
       "title": "Staff Software Engineer",
-      "location": "Fremont",
-      "website": "",
-      "startDate": "",
-      "summary": "",
+      "location": "Fremont, CA",
+      "website": "https://www.tesla.com",
+      "startDate": "Nov. 2019",
+      "endDate": "Sept. 2022",
       "description": [
         "blah",
         "blah2"
       ]
-    }],
+    },
+    {
+      "company": "",
+      "title": "Senior Software Engineer",
+      "location": "Fremont, CA",
+      "website": "https://www.tesla.com",
+      "startDate": "2017",
+      "endDate": "Nov. 2019",
+      "description": [
+        "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
+        "Redesigned Tesla Shop product pages to provide a more visual appealing experience of accessories and clothing",
+        "Context switch multiple times per day to asses and give feedback to code reviews via Stash for various teams",
+        "Single-handedly developed front-end portion of Tesla Semi and Roadster reservation web pages using PHP Drupal and JavaScript in quick turn around for global reveal within a week",
+        "Created Angular-based app via Smartling API to upload English JSON strings & download translated files in a zip file",
+        "Developed Solar Roof product content and reservation page for product launch in the US using SCSS and JavaScript",
+        "Partnered with SolarCity's Web team to integrate with Tesla dev environment and to increase familiarity with Tesla's codebase and enforcing coding standards",
+        "Updated Tesla Powerwall Configurator using React and Drupal PHP to be able to take orders in the US"
+      ]
+    },
+    {
+      "company": "Avenue code",
+      "title": "UI Developer",
+      "location": "San Francisco, CA",
+      "website": "https://www.avenuecode.com",
+      "startDate": "2016",
+      "endDate": "2017",
+      "description": [
+        "Worked as a consultant to Bloomingdale's as a UI Developer",
+        "Redesigned the Sign-in and Profile Page section of the store website in a Lean Lab style",
+        "Updated JavaScript & JSP-based webpages to a responsive-design using Backbone / Marionette",
+        "Refreshed the layout and design using Handlebars, SCSS, and relying on Foundation",
+        "Attended scrum meetings with stakeholders to make decisions based on value-per-feature to the company"
+      ]
+    },
+    {
+      "company": "Genesys Telecommunications Laboratories",
+      "title": "Mobile Developer",
+      "location": "Markham, ON",
+      "website": "https://www.genesys.com",
+      "startDate": "2012",
+      "endDate": "2016",
+      "description": [
+        "Contributed and lead company-wide initiative to implement a framework with a unified look and feel to webapps, based on angular and bootstrap",
+        "Interviewed, hired, managed, and mentored university interns so that they gain the best experience & knowledge",
+        "Redesigned existing AJAX-based webpages with newly in-house created angular framework",
+        "Developed cross-platform mobile push notification system for iOS / Android, integrated with Passbook distribution",
+        "Designed and developed a webapp to render and modify Passbooks in real-time",
+        "Built Jenkins build-server monitoring app to display analytics/statistics of unit test results using AngularJS & D3",
+        "Developed 'Genesys Care' iOS & Android application for customers to keep track of customer support tickets",
+        "Collaboratively developed Genesys SaaS Agent Monitoring webapp with a team of 6, using TDD with Jasmine unit tests, and Continuous Integration with Jenkins build servers",
+        "Created & designed application to login into websites based on credential stored on NFC chip",
+        "Demonstrated knowledge & interest in NFC by giving company-wide presentations on use cases and technical specs"
+      ]
+    },
+    {
+      "company": "Integral Group Inc.",
+      "title": "Mobile Developer",
+      "location": "Markham, CA",
+      "website": "https://www.integralgroup.ca/",
+      "startDate": "2010",
+      "endDate": "2012",
+      "description": [
+        "Developed NexTaxi Android application for users to book and track statuses of requested (and customized) taxicabs, in addition to communicating with ‘TranAir’ application to process in-app payments",
+        "Developed Universal TranWare's 'TranAir' Android tablet application for taxicab operators to communicate with dispatch system via middle-ware and handle credit card transactions over Moneris APIs via Bluetooth POS printer. Incorporated turn-by-turn navigation, and push-to-talk to dispatch within the application",
+        "Demonstrated application and its functions at annual Taxi, Limousine & Para-transit Association fair in San Francisco"
+      ]
+    }
+  ],
   "education": [{
-    "institution": "u of t",
-    "area": "astrophyics",
-    "studyType": "",
+    "institution": "University of Toronto",
+    "area": "Major in Astrophysics and Physics, and Computer Science",
+    "studyType": "Honours Bachelor of Science",
     "startDate": "2006",
     "endDate": "2011",
-    "location": ""
+    "location": "Toronto, ON"
   }],
   "volunteer": [{
     "organization": "",

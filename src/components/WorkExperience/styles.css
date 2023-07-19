@@ -1,3 +1,35 @@
-.headerContainer {
-    background: linear-gradient(180deg, rgba(255,255, 255, 1) 0%,  rgba(255,255, 255, 1) 88%,  rgba(245,245, 245, 1) 100%);
+.workExperienceHeader {
+    display: flex;
+    flex-direction: column;
+}
+
+.companyName {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.companyLocation {
+    font-weight: lighter;
+    font-size: 11px;
+}
+
+.companyPosition {
+    display: flex;
+    flex-direction: row;
+}
+
+.companyTitle,
+.companyTimeframe {
+    display: flex;
+    flex: 1;
+}
+
+.companyTimeframe {
+    font-weight: lighter;
+    justify-content: flex-end;
+}
+
+.companyDescriptionList {
+    padding-left: 16px;
 }
