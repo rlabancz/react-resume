@@ -39,7 +39,7 @@
       "endDate": "Sept. 2022",
       "description": [
         "architectured data driven logic",
-        "manage team of 12", 
+        "managed team of 12", 
         "architectured runtime translation pulling (ttp node)",
         "added in-car purchase (bml)",
         "accessiblity",
@@ -59,12 +59,12 @@
       "endDate": "Nov. 2019",
       "description": [
         "tesla insurance",
-        "burstapp development + architecture",
-        "Developed and supported Model Y livestream sign-up and livestream page",
+        "Architected and developed php boilerplate burstapp development + architecture",
+        "Developed and supported Model Y livestream sign-up and livestream page using Go as backend",
         "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
         "Redesigned Tesla Shop product pages to provide a more visual appealing experience of accessories and clothing",
         "Context switch multiple times per day to assess and give feedback to code reviews via Stash for various teams",
-        "Single-handedly developed front-end portion of Tesla Semi and Roadster reservation web pages using PHP Drupal and JavaScript in quick turn around for global reveal within a week",
+        "Designed and built the Tesla Semi and Roadster reservation web pages from scratch using PHP Drupal and JavaScript, ensuring a fast turnaround for global unveiling within 1 week",
         "Created Angular-based app via Smartling API to upload English JSON strings & download translated files in a zip file",
         "Developed Solar Roof content and reservation page for product launch in the US using SCSS and JavaScript",
         "Partnered with SolarCity's web team to integrate with the Tesla dev environment and increase familiarity with Tesla's codebase and enforcing coding standards",
@@ -82,8 +82,8 @@
         "Worked as a consultant to Bloomingdale's as a UI Developer",
         "Redesigned the Sign-in and Profile Page section of the store website in a Lean Lab style",
         "Updated JavaScript & JSP-based webpages to a responsive design using Backbone and Marionette",
-        "Refreshed the webpage layout and design using Handlebars, SCSS, and relying on Foundation",
-        "Attended scrum meetings with stakeholders to make decisions based on value-per-feature to the company"
+        "Revitalized webpage layout and design through the utilization of Handlebars, SCSS, and Foundation framework",
+        "Participated in scrum meetings with stakeholders for informed decision-making aligning with company's value-per-feature approach"
       ]
     },
     {
