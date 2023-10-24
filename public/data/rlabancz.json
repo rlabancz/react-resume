@@ -27,16 +27,17 @@
     "startDate": "Sept. 2022",
     "description": [
       "Manage the Upgrades & Subscriptions, Leasing, and Vehicle Ownership platform on web and mobile",
+      "Work with product to create quarterly roadmaps and define priorities within each product line",
       "Coordinate with multiple team leads and QA on weekly releases for production code deployment",
+      "Iteratively review new product changes with design and product team to ensure feasible deliverables",
       "architectured profile ia",
       "whats new",
       "qr code for hertz",
       "interchangable splash page",
       "automation testing",
-      "migrated web functionalities to mobile",
-      "react -> react native",
       "oversee and actively support the growth of software engineers from P1 to P3",
-      "work with support team to remidiate customer complaints and issues on the web and mobile platform"
+      "work with support team to remidiate customer complaints and issues on the web and mobile platform",
+      "migrated web functionalities to mobile, react -> react native"
     ]
   },
     {
@@ -51,8 +52,9 @@
         "Managed a team of 9 Engineers and 4 QA",
         "architectured runtime translation pulling (ttp node)",
         "added in-car purchase (bml)",
+        "interviewed and assessed skills of engineers and QA of various levels for open headcount",
         "Advocated for, and worked with Product and Design to meet WCAG 2.1 standards",
-        "run daily scrum standup and work with product to implement storytime",
+        "Ran daily scrum stand-up meetings and coordinate with product to implement storytime for engineers",
         "Launched Captive Leasing and Ownership Transfer web platform",
         "Forefronted and architectured migrating legacy web stack from Drupal PHP to Node and React",
         "Launched Premium Connectivity and paved for future subscription services via web platform",
