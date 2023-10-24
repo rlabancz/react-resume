@@ -26,14 +26,17 @@
     "website": "https://www.tesla.com",
     "startDate": "Sept. 2022",
     "description": [
-      "release + deployment",
+      "Manage the Upgrades & Subscriptions, Leasing, and Vehicle Ownership platform on web and mobile",
+      "Coordinate with multiple team leads and QA on weekly releases for production code deployment",
       "architectured profile ia",
       "whats new",
       "qr code for hertz",
       "interchangable splash page",
       "automation testing",
       "migrated web functionalities to mobile",
-      "react -> react native"
+      "react -> react native",
+      "oversee and actively support the growth of software engineers from P1 to P3",
+      "work with support team to remidiate customer complaints and issues on the web and mobile platform"
     ]
   },
     {
@@ -44,17 +47,15 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
- 
         "architectured data driven logic",
-        "managed team of 12", 
+        "Managed a team of 9 Engineers and 4 QA",
         "architectured runtime translation pulling (ttp node)",
         "added in-car purchase (bml)",
-        "accessiblity",
-        "launched leasing web platform",
-        "ownership transfer",
-        "led team + migrated and redesigned web applications from Drupal PHP to ",
-        "Led the migration of accounts from calling SQL db to API based",
-        "Launched Premium Connentiviy subscription service managment web tool",
+        "Advocated for, and worked with Product and Design to meet WCAG 2.1 standards",
+        "run daily scrum standup and work with product to implement storytime",
+        "Launched Captive Leasing and Ownership Transfer web platform",
+        "Forefronted and architectured migrating legacy web stack from Drupal PHP to Node and React",
+        "Launched Premium Connectivity and paved for future subscription services via web platform",
         "Managed and navigated a company-wide RIF process, ensuring transparent communication, and compassionate support for affected and low-morale employees"
       ]
     },
@@ -71,7 +72,6 @@
         "Architected and developed a PHP boilerplate burst-app using Slim for other teams to extend off of",
         "Developed and supported Model Y livestream sign-up and livestream event page using Go as backend",
         "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
-        "Redesigned Tesla Shop product pages to provide a more visual appealing experience of accessories and clothing",
         "Assess and provide feedback to code reviews via Stash for various teams",
         "Using PHP and JavaScript, designed and built the Tesla Semi and Roadster reservation web pages within 1 week before a global unveiling",
         "Created Angular-based app via Smartling's API to upload English JSON strings & download translated files in a zip file",
