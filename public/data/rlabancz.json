@@ -26,8 +26,14 @@
     "website": "https://www.tesla.com",
     "startDate": "Sept. 2022",
     "description": [
-      "blah",
-      "migrated web functionalities to mobile"
+      "release + deployment",
+      "architectured profile ia",
+      "whats new",
+      "qr code for hertz",
+      "interchangable splash page",
+      "automation testing",
+      "migrated web functionalities to mobile",
+      "react -> react native"
     ]
   },
     {
@@ -38,16 +44,18 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
+ 
         "architectured data driven logic",
         "managed team of 12", 
         "architectured runtime translation pulling (ttp node)",
         "added in-car purchase (bml)",
         "accessiblity",
-        "launched leasing platform",
+        "launched leasing web platform",
         "ownership transfer",
         "led team + migrated and redesigned web applications from Drupal PHP to ",
-        "led migration of accounts from calling SQL db to API based",
-        "Launched premium connentiviy subscription service"
+        "Led the migration of accounts from calling SQL db to API based",
+        "Launched Premium Connentiviy subscription service managment web tool",
+        "Managed and navigated a company-wide RIF process, ensuring transparent communication, and compassionate support for affected and low-morale employees"
       ]
     },
     {
@@ -58,17 +66,18 @@
       "startDate": "2017",
       "endDate": "Nov. 2019",
       "description": [
-        "tesla insurance",
-        "Architected and developed php boilerplate burstapp development + architecture",
-        "Developed and supported Model Y livestream sign-up and livestream page using Go as backend",
+        "Implemented Cybertruck CSS theme to webpages and supported livestream event page",
+        "Developed Tesla Insurance web platform using PHP, JavaScript",
+        "Architected and developed a PHP boilerplate burst-app using Slim for other teams to extend off of",
+        "Developed and supported Model Y livestream sign-up and livestream event page using Go as backend",
         "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
         "Redesigned Tesla Shop product pages to provide a more visual appealing experience of accessories and clothing",
-        "Context switch multiple times per day to assess and give feedback to code reviews via Stash for various teams",
-        "Designed and built the Tesla Semi and Roadster reservation web pages from scratch using PHP Drupal and JavaScript, ensuring a fast turnaround for global unveiling within 1 week",
-        "Created Angular-based app via Smartling API to upload English JSON strings & download translated files in a zip file",
-        "Developed Solar Roof content and reservation page for product launch in the US using SCSS and JavaScript",
-        "Partnered with SolarCity's web team to integrate with the Tesla dev environment and increase familiarity with Tesla's codebase and enforcing coding standards",
-        "Updated the Tesla Powerwall configurator using React and Drupal PHP to be able to take orders in the US"
+        "Assess and provide feedback to code reviews via Stash for various teams",
+        "Using PHP and JavaScript, designed and built the Tesla Semi and Roadster reservation web pages within 1 week before a global unveiling",
+        "Created Angular-based app via Smartling's API to upload English JSON strings & download translated files in a zip file",
+        "Developed Solar Roof marketing, and reservation page for US product launch using SCSS and JavaScript",
+        "Integrated SolarCity's development environment into Tesla's and advocated Tesla's coding standards and best practices",
+        "Updated the Tesla Powerwall configurator using React and Drupal PHP to be able to take US orders"
       ]
     },
     {
@@ -79,8 +88,8 @@
       "startDate": "2016",
       "endDate": "2017",
       "description": [
-        "Worked as a consultant to Bloomingdale's as a UI Developer",
-        "Redesigned the Sign-in and Profile Page section of the store website in a Lean Lab style",
+        "Worked as a consultant to Bloomingdale's",
+        "Redesigned the Sign In and Profile Page section of the store website in a Lean Lab style",
         "Updated JavaScript & JSP-based webpages to a responsive design using Backbone and Marionette",
         "Revitalized webpage layout and design through the utilization of Handlebars, SCSS, and Foundation framework",
         "Participated in scrum meetings with stakeholders for informed decision-making aligning with company's value-per-feature approach"
@@ -114,7 +123,7 @@
       "startDate": "2010",
       "endDate": "2012",
       "description": [
-        "Developed NexTaxi Android application for users to book and track statuses of custom requested taxicabs, communicating with 'TranAir' application to process in-app payments",
+        "Created the NexTaxi Android application to enable users to conveniently reserve and monitor the progress of their requested taxicabs. Seamless integration with the 'TranAir' application facilitates secure and efficient in-app payments.",
         "Developed Universal TranWare's 'TranAir' Android tablet application for taxicab operators to communicate with dispatch system via middleware and handle credit card transactions over Moneris APIs via a Bluetooth POS printer. Incorporated turn-by-turn navigation, and push-to-talk to dispatch within the application using Google APIs",
         "Demoed application and its functions at annual Taxi, Limousine & Para-transit Association exhibition in San Francisco"
       ]
