@@ -9,37 +9,38 @@
     "summary": "Software Engineering Manager",
     "location": "Bay Area",
     "username": "rlabancz",
-    "socialMedia": [{
-      "icon": "",
-      "network": "",
-      "username": "",
-      "url": ""
-    }]
-  },
-  "objective": {
-
-  },
-  "work": [{
-    "company": "Tesla",
-    "title": "Software Engineering Manager",
-    "location": "Fremont, CA",
-    "website": "https://www.tesla.com",
-    "startDate": "Sept. 2022",
-    "description": [
-      "Manage the Upgrades & Subscriptions, Leasing, and Vehicle Ownership platform on web and mobile",
-      "Work with product to create quarterly roadmaps and define priorities within each product line",
-      "Coordinate with multiple team leads and QA on weekly releases for production code deployment",
-      "Iteratively review new product changes with design and product team to ensure feasible deliverables",
-      "architectured profile ia",
-      "whats new",
-      "qr code for hertz",
-      "interchangable splash page",
-      "automation testing",
-      "oversee and actively support the growth of software engineers from P1 to P3",
-      "work with support team to remidiate customer complaints and issues on the web and mobile platform",
-      "migrated web functionalities to mobile, react -> react native"
+    "socialMedia": [
+      {
+        "icon": "",
+        "network": "",
+        "username": "",
+        "url": ""
+      }
     ]
   },
+  "objective": {},
+  "work": [
+    {
+      "company": "Tesla",
+      "title": "Software Engineering Manager",
+      "location": "Fremont, CA",
+      "website": "https://www.tesla.com",
+      "startDate": "Sept. 2022",
+      "description": [
+        "Manage the Upgrades & Subscriptions, Leasing, and Vehicle Ownership platform on web and mobile",
+        "Work with Product to create quarterly roadmaps and define both business and engineering priorities within each product line",
+        "Coordinate with multiple team-leads and QA on weekly releases for production code deployment",
+        "Iteratively review new product changes with design and product teams to ensure feasible deliverables",
+        "Implemented the QR-code based auto sign-in webpage for Hertz rental customers",
+        "Architected a customizable splash and guest page for the mobile app via a web endpoint",
+        "Promoted and motivated QA and engineers to upkeep automation testing",
+        "Oversaw and actively supported the growth of software engineers from P1 to P3",
+        "Responsible for being on-call, during, and after business hours to reduce customer impact during outages",
+        "Review pod health on a regular business, to prepare for, and react to spikes in traffic",
+        "Collaborate with the support team to promptly address and resolve customer complaints and issues across both web and mobile platforms",
+        "Led the seamless migration of multiple product lines from the web platform to the mobile app, while skillfully reorienting the team to excel with React Native"
+      ]
+    },
     {
       "company": "",
       "title": "Staff Software Engineer",
@@ -48,17 +49,16 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
-        "architectured data driven logic",
+        "Architected a data-driven approach to presenting logic for UI to reduce time to market for new products",
         "Managed a team of 9 Engineers and 4 QA",
-        "architectured runtime translation pulling (ttp node)",
-        "added in-car purchase (bml)",
-        "interviewed and assessed skills of engineers and QA of various levels for open headcount",
+        "Collaborated with vehicle team to implement in-car purchase of software upgrades and subscriptions",
+        "Interviewed and hired engineers and QA of various levels (P1 – P3) for open headcount",
         "Advocated for, and worked with Product and Design to meet WCAG 2.1 standards",
-        "Ran daily scrum stand-up meetings and coordinate with product to implement storytime for engineers",
-        "Launched Captive Leasing and Ownership Transfer web platform",
-        "Forefronted and architectured migrating legacy web stack from Drupal PHP to Node and React",
-        "Launched Premium Connectivity and paved for future subscription services via web platform",
-        "Managed and navigated a company-wide RIF process, ensuring transparent communication, and compassionate support for affected and low-morale employees"
+        "Ran daily scrum stand-up meetings and coordinated with Product to implement story time for engineers across multiple product lines",
+        "Collaborated with multiple organizations to successfully launch the Captive Leasing and Ownership Transfer web platform",
+        "Lead and architected migrating legacy web stack from Drupal PHP & JavaScript to Node & ReactJS",
+        "Launched Premium Connectivity (and paved for future subscription services for vehicles) via web platform",
+        "Managed and navigated a company-wide RIF, ensuring transparent communication, and compassionate support for affected and low-morale employees"
       ]
     },
     {
@@ -70,13 +70,13 @@
       "endDate": "Nov. 2019",
       "description": [
         "Implemented Cybertruck CSS theme to webpages and supported livestream event page",
-        "Developed Tesla Insurance web platform using PHP, JavaScript",
-        "Architected and developed a PHP boilerplate burst-app using Slim for other teams to extend off of",
+        "Developed the initial Tesla Insurance web platform using PHP and JavaScript for launch",
+        "Architected and developed a PHP boilerplate burst-app using Slim for other teams to extend from",
         "Developed and supported Model Y livestream sign-up and livestream event page using Go as backend",
         "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
-        "Assess and provide feedback to code reviews via Stash for various teams",
-        "Using PHP and JavaScript, designed and built the Tesla Semi and Roadster reservation web pages within 1 week before a global unveiling",
-        "Created Angular-based app via Smartling's API to upload English JSON strings & download translated files in a zip file",
+        "Assess and provide feedback to code reviews via Stash / Github for various teams",
+        "Using PHP and JavaScript, designed and built the Tesla Semi and Roadster reservation web pages in 1 week before a global unveiling",
+        "Created Angular-based app using Smartling's API to upload English JSON strings & download translated files in a zip file",
         "Developed Solar Roof marketing, and reservation page for US product launch using SCSS and JavaScript",
         "Integrated SolarCity's development environment into Tesla's and advocated Tesla's coding standards and best practices",
         "Updated the Tesla Powerwall configurator using React and Drupal PHP to be able to take US orders"
@@ -131,60 +131,108 @@
       ]
     }
   ],
-  "education": [{
-    "institution": "University of Toronto",
-    "area": "Major in Astrophysics and Physics, and Computer Science",
-    "studyType": "Honours Bachelor of Science",
-    "startDate": "2006",
-    "endDate": "2011",
-    "location": "Toronto, ON"
-  }],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "location": "",
-    "startDate": "",
-    "endDate": "",
-    "highlights": [
-      ""
-    ]
-  }],
-  "awards": [{
-    "title": "",
-    "date": "",
-    "location": "",
-    "awarder": "",
-    "summary": [
-      ""
-    ]
-  }],
-  "publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  }],
-  "skills": [{
-    "name": "",
-    "level": 5
-  }],
-  "personalSkills": [
-    ""
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "area": "Major in Astrophysics and Physics, and Computer Science",
+      "studyType": "Honours Bachelor of Science",
+      "startDate": "2006",
+      "endDate": "2011",
+      "location": "Toronto, ON"
+    }
   ],
-  "languages": [{
-    "language": "",
-    "fluency": ""
-  }],
-  "interests": [{
-    "name": ""
-  }],
-  "reference": [{
-    "name": "",
-    "position": "",
-    "company": "",
-    "address": [],
-    "phone": "",
-    "email": ""
-  }]
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "location": "",
+      "awarder": "",
+      "summary": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": 5
+    },
+    {
+      "name": "CSS",
+      "level": 5
+    },
+    {
+      "name": "PHP",
+      "level": 4
+    },
+    {
+      "name": "TypeScript",
+      "level": 4
+    },
+    {
+      "name": "Android Dev",
+      "level": 3
+    }
+  ],
+  "personalSkills": [
+    "Effective & cooperative team lead, yet productive as an independent worker",
+    "Thrives under immense pressure and tight deadlines",
+    "Enthusiastic to stay up-to-date and learn new skills",
+    "Persistent on the successful completion of a given task",
+    "Detail oriented in pixel pushing"
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Astronomy"
+    },
+    {
+      "name": "Car enthusiast"
+    },
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "1940's Music"
+    }
+  ],
+  "reference": [
+    {
+      "name": "",
+      "position": "",
+      "company": "",
+      "address": [],
+      "phone": "",
+      "email": ""
+    }
+  ]
 }
