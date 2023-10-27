@@ -7,6 +7,7 @@ import Contact from "./components/Contact";
 import Education from "./components/Education";
 import WorkExperience from "./components/WorkExperience";
 import styles from './styles.css';
+import Skills from './components/Skills';
 
 function App() {
 
@@ -36,16 +37,15 @@ function App() {
             {data ?
                 <div className={`fullPageContainer`}>
                     <div className={`leftSideContainer`}>
-
                         <Section title={`Contact`} icon={`person`} body={<Contact data={data.profile}/>}/>
-                        <Section title={`Skills`} icon={`psychology`}/>
+                        <Section title={`Skills`} icon={`psychology`} body={<Skills data={data.skills}/>}/>
                         <Section title={`Education`} icon={`school`} body={<Education data={data.education}/>}/>
                         <Section title={`Awards`} icon={`emoji_events`}/>
                     </div>
                     <div className={`rightSideContainer`}>
                         <Header data={data.profile}/>
                         <div className={`rightSideContent`}>
-                            <Section title="Objective" icon={`crisis_alert`}/>
+                            <Section title="Objective" icon={`crisis_alert`} body={data.objective}/>
                             <Section title="Experience" icon={`work`} body={<WorkExperience data={data.work}/>}/>
                         </div>
                     </div>
