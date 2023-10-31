@@ -1,6 +1,40 @@
-.skillIcon {
-    font-size: 11px;
-    line-height: 11px;
-    margin-top: 6px;
-    margin-bottom: 6px;
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.skillItem {
+    display: flex;
+    flex-direction: column;
+    margin-block-end: 4px;
+    padding-inline-end: 4px;
+}
+
+.skillBox {
+    border: solid 1px;
+    height: 10px;
+    margin: 2px 0;
+    width: 100%;
+}
+
+.skillFill {
+    background: #F8F8F8;
+    height: 100%;
+    opacity: 0.8;
+}
+.skillFill.fill-5 {
+    width: 100%;
+}
+.skillFill.fill-4 {
+    width: 80%;
+}
+.skillFill.fill-3 {
+    width: 60%;
+}
+.skillFill.fill-2 {
+    width: 40%;
+}
+.skillFill.fill-1 {
+    width: 20%;
 }

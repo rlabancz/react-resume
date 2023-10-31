@@ -1,0 +1,12 @@
+.interestItem {
+    display: flex;
+    flex-direction: row;
+    margin-block-end: 4px;
+}
+
+.interestIcon {
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 16px;
+    margin-inline-end: 4px;
+}

@@ -3,22 +3,23 @@
     "name": "Robert Labancz",
     "label": "",
     "picture": "",
-    "email": "sample@gmail.com",
+    "email": "first.last@gmail.com",
     "phone": "123-123-1234",
-    "website": "",
+    "website": "https://rl-designs.ca",
+    "github": "rlabancz",
     "summary": "Software Engineering Manager",
     "location": "Bay Area",
     "username": "rlabancz",
     "socialMedia": [
       {
-        "icon": "",
-        "network": "",
-        "username": "",
-        "url": ""
+        "icon": "alternate_email",
+        "network": "Twitter",
+        "username": "rlabancz",
+        "url": "https://twitter.com"
       }
     ]
   },
-  "objective": "To find a challenging position where i can apply my techical and managerial skills",
+  "objective": "",
   "work": [
     {
       "company": "Tesla",
@@ -27,18 +28,18 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
-        "Manage the Upgrades & Subscriptions, Leasing, and Vehicle Ownership platform on web and mobile",
-        "Work with Product to create quarterly roadmaps and define both business and engineering priorities within each product line",
-        "Coordinate with multiple team-leads and QA on weekly releases for production code deployment",
-        "Iteratively review new product changes with design and product teams to ensure feasible deliverables",
-        "Implemented the QR-code based auto sign-in webpage for Hertz rental customers",
-        "Architected a customizable splash and guest page for the mobile app via a web endpoint",
-        "Promoted and motivated QA and engineers to upkeep automation testing",
-        "Oversaw and actively supported the growth of software engineers from P1 to P3",
-        "Responsible for being on-call, during, and after business hours to reduce customer impact during outages",
-        "Review pod health on a regular business, to prepare for, and react to spikes in traffic",
-        "Collaborate with the support team to promptly address and resolve customer complaints and issues across both web and mobile platforms",
-        "Led the seamless migration of multiple product lines from the web platform to the mobile app, while skillfully reorienting the team to excel with React Native"
+        "Efficiently manage the web and mobile platform for Upgrades & Subscriptions, Leasing, and Vehicle Ownership, ensuring seamless customer experiences and revenue growth",
+        "Collaborate with Product to craft and refine quarterly roadmaps, aligning both business and engineering priorities",
+        "Coordinate with various team leads and QA Engineers to orchestrate weekly production code deployments, enhancing product delivery and reliability",
+        "Continuously assess product updates with design and product teams to ensure achievable outcomes, resulting in higher-quality releases and improved user satisfaction",
+        "Successfully implemented a QR-code-based auto sign-in webpage for Hertz rental customers, simplifying the customer experience and increasing efficiency",
+        "Streamlined the mobile app by architecting a web-based customizable splash and guest page, reducing deployment time and simplifying content management, saving valuable time for both Engineering and Product teams",
+        "Empower QA and engineering teams to prioritize and maintain automation testing, leading to increased efficiency and reduced overtime for QA in weekly regression testing, improving resource allocation and product quality",
+        "Manage and actively mentored the professional development of software engineers on my team, guiding their career progression from associate level to senior level, resulting in a skilled and motivated workforce",
+        "Responsible for on-call duties during and after business hours to minimize customer impact during outages, ensuring uninterrupted service and customer satisfaction",
+        "Regularly assess pod health to proactively prepare for and respond to spikes in traffic, improving system resilience and customer experience",
+        "Foster collaboration with the support team to promptly address and resolve customer complaints and issues on both web and mobile platforms, enhancing customer satisfaction and loyalty",
+        "Successfully spearheaded the seamless transition of multiple product lines from the web platform to the mobile app, skillfully guiding the team to excel with React Native, expanding the company's digital footprint and customer reach"
       ]
     },
     {
@@ -49,16 +50,16 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
-        "Architected a data-driven approach to presenting logic for UI to reduce time to market for new products",
-        "Managed a team of 9 Engineers and 4 QA",
-        "Collaborated with vehicle team to implement in-car purchase of software upgrades and subscriptions",
-        "Interviewed and hired engineers and QA of various levels (P1 – P3) for open headcount",
-        "Advocated for, and worked with Product and Design to meet WCAG 2.1 standards",
-        "Ran daily scrum stand-up meetings and coordinated with Product to implement story time for engineers across multiple product lines",
-        "Collaborated with multiple organizations to successfully launch the Captive Leasing and Ownership Transfer web platform",
-        "Lead and architected migrating legacy web stack from Drupal PHP & JavaScript to Node & ReactJS",
-        "Launched Premium Connectivity (and paved for future subscription services for vehicles) via web platform",
-        "Managed and navigated a company-wide RIF, ensuring transparent communication, and compassionate support for affected and low-morale employees"
+        "Implemented a data-driven approach to streamline UI logic, significantly reducing time-to-market for new products and enhancing product competitiveness",
+        "Supervised a team of 9 Software Engineers and 4 QA Engineers, ensuring consistent efficient project delivery and product quality",
+        "Collaborated with the vehicle division to introduce in-car purchase of software upgrades and subscriptions, generating additional revenue streams",
+        "Conducted interviews and hired engineers and QA specialists at various experience levels (Associate to Senior), bolstering the team's capabilities and productivity",
+        "Advocated for the adoption of WCAG 2.1 standards and worked with Product and Design to meet them, improving accessibility and expanding the user base",
+        "Orchestrated daily scrum stand-up meetings and coordinated story time sessions for engineers across multiple product lines, boosting team collaboration and productivity",
+        "Collaborated with multiple departments to successfully launch the Captive Leasing and Ownership Transfer web platform, enabling new business opportunities",
+        "Led the migration of the legacy web stack from Drupal PHP & JavaScript to Node & ReactJS, improving performance and scalability",
+        "Launched Premium Connectivity via the web platform, establishing a foundation for future vehicle subscription services and enhancing revenue",
+        "Managed and navigated a company-wide Reduction in Force (RIF) with transparent communication and compassionate support, minimizing disruption and maintaining employee morale"
       ]
     },
     {
@@ -66,20 +67,21 @@
       "title": "Senior Software Engineer",
       "location": "Fremont, CA",
       "website": "https://www.tesla.com",
-      "startDate": "2017",
+      "startDate": "Feb. 2017",
       "endDate": "Nov. 2019",
       "description": [
-        "Implemented Cybertruck CSS theme to webpages and supported livestream event page",
-        "Developed the initial Tesla Insurance web platform using PHP and JavaScript for launch",
-        "Architected and developed a PHP boilerplate burst-app using Slim for other teams to extend from",
-        "Developed and supported Model Y livestream sign-up and livestream event page using Go as backend",
-        "Advocated on design patterns to unify and enforce coding standards for CSS and JavaScript using lint rules",
-        "Assess and provide feedback to code reviews via Stash / Github for various teams",
-        "Using PHP and JavaScript, designed and built the Tesla Semi and Roadster reservation web pages in 1 week before a global unveiling",
-        "Created Angular-based app using Smartling's API to upload English JSON strings & download translated files in a zip file",
-        "Developed Solar Roof marketing, and reservation page for US product launch using SCSS and JavaScript",
-        "Integrated SolarCity's development environment into Tesla's and advocated Tesla's coding standards and best practices",
-        "Updated the Tesla Powerwall configurator using React and Drupal PHP to be able to take US orders"
+        "Enhanced webpages by implementing the Cybertruck CSS theme and providing essential support for a successful livestream event, boosting brand engagement",
+        "Pioneered the development of the initial Tesla Insurance web platform, enabling the company to offer a new product to customers and expand its market presence",
+        "Architected a versatile PHP boilerplate burst-app using Slim, empowering multiple teams to rapidly develop and extend applications, increasing development efficiency",
+        "Developed and maintained the Model Y livestream sign-up and event page, enhancing customer engagement and interaction, leading to increased interest and brand loyalty",
+        "Advocated for and implemented design patterns that standardized coding practices for CSS and JavaScript, resulting in improved code quality and maintainability",
+        "Contributed valuable insights and feedback through code reviews, ensuring high-quality code and reducing the likelihood of post-release issues",
+        "Rapidly designed and built the Tesla Semi and Roadster reservation web pages before a global unveiling, creating excitement and anticipation in the market",
+        "Developed an Angular-based app to streamline translation processes, accelerating global expansion and product localization efforts",
+        "Crafted the Solar Roof marketing and reservation page, facilitating product launch, attracting potential customers, and driving sales",
+        "Successfully integrated SolarCity's development environment into Tesla's, harmonizing processes and improving overall efficiency",
+        "Updated the Tesla Powerwall configurator, streamlining the order-taking process and increasing sales for this product line"
+
       ]
     },
     {
@@ -90,11 +92,11 @@
       "startDate": "2016",
       "endDate": "2017",
       "description": [
-        "Worked as a consultant to Bloomingdale's",
-        "Redesigned the Sign In and Profile Page section of the store website in a Lean Lab style",
-        "Updated JavaScript & JSP-based webpages to a responsive design using Backbone and Marionette",
-        "Revitalized webpage layout and design through the utilization of Handlebars, SCSS, and Foundation framework",
-        "Participated in scrum meetings with stakeholders for informed decision-making aligning with company's value-per-feature approach"
+        "Worked as a consultant to Bloomingdale's to redesign the 'Sign In' and 'Profile Page' section of the store website, enhancing user experience and engagement using a Lean Lab approach",
+        "Transformed JavaScript & JSP-based web pages into responsive designs using Backbone and Marionette, resulting in improved accessibility across devices and higher customer satisfaction",
+        "Revamped web page layout and design by leveraging Handlebars, SCSS, and the Foundation framework, leading to a more visually appealing and user-friendly website",
+        "Actively participated in scrum meetings with stakeholders, ensuring informed decision-making and alignment with the company's value-per-feature approach, which facilitated more efficient product development and delivery"
+
       ]
     },
     {
@@ -105,16 +107,16 @@
       "startDate": "2012",
       "endDate": "2016",
       "description": [
-        "Contributed and lead company-wide initiative to implement a design framework with a unified look and feel to webapps, based on AngularJS and Bootstrap",
-        "Interviewed, hired, managed, and mentored university interns",
-        "Redesigned existing AJAX-based webpages with newly in-house created angular framework",
-        "Developed cross-platform mobile push notification system for iOS / Android, integrated with Passbook distribution",
-        "Designed and developed a webapp to render and modify Passbooks in real-time",
-        "Built Jenkins build-server monitoring app to display analytics/statistics of unit test results using AngularJS & D3",
-        "Developed 'Genesys Care' iOS & Android application for customers to keep track of customer support tickets",
-        "Collaboratively developed Genesys SaaS Agent Monitoring webapp in a TDD style using Jasmine unit tests, and continuous integration using Jenkins build servers",
-        "Created & designed application to login into websites based on credentials stored on NFC chip",
-        "Demonstrated knowledge & interest in NFC by giving company-wide presentations on use cases and technical specs"
+        "Spearheaded a company-wide initiative to implement a design framework, based on AngularJS and Bootstrap, to achieve a unified look and feel for webapps, resulting in a cohesive and user-friendly online experience, strengthening the brand's image and user satisfaction",
+        "Assumed responsibility for interviewing, hiring, managing, and mentoring university interns, fostering a talent pipeline, and supporting the professional growth of emerging developers",
+        "Executed a comprehensive redesign of existing AJAX-based web pages using an in-house Angular framework, optimizing user experience, and streamlining content delivery",
+        "Pioneered the development of a cross-platform mobile push notification system for iOS and Android, seamlessly integrated with Passbook distribution, enhancing communication and customer engagement",
+        "Designed and developed a real-time web app for rendering and modifying Passbooks, improving user convenience and interaction",
+        "Created a Jenkins build-server monitoring app that displays analytics and statistics of unit test results using AngularJS and D3, enhancing development efficiency and quality",
+        "Developed the 'Genesys Care' iOS and Android application, empowering customers to monitor and manage customer support tickets, leading to increased customer satisfaction and loyalty",
+        "Collaboratively created the Genesys SaaS Agent Monitoring web app in a TDD style, featuring Jasmine unit tests and continuous integration with Jenkins build servers, ensuring high-quality and reliable software",
+        "Designed an application for logging into websites based on credentials stored on NFC chips, simplifying and securing user access to online platforms",
+        "Demonstrated expertise and enthusiasm for NFC technology by delivering company-wide presentations on its use cases and technical specifications, fostering awareness and understanding across the organization"
       ]
     },
     {
@@ -125,16 +127,17 @@
       "startDate": "2010",
       "endDate": "2012",
       "description": [
-        "Created the NexTaxi Android application to enable users to conveniently reserve and monitor the progress of their requested taxicabs. Seamless integration with the 'TranAir' application facilitates secure and efficient in-app payments.",
-        "Developed Universal TranWare's 'TranAir' Android tablet application for taxicab operators to communicate with dispatch system via middleware and handle credit card transactions over Moneris APIs via a Bluetooth POS printer. Incorporated turn-by-turn navigation, and push-to-talk to dispatch within the application using Google APIs",
-        "Demoed application and its functions at annual Taxi, Limousine & Para-transit Association exhibition in San Francisco"
+        "Created the NexTaxi Android application, providing users with a user-friendly platform to reserve and track their taxicabs, resulting in improved customer satisfaction and engagement Additionally, seamless integration with the 'TranAir' application streamlined in-app payments, enhancing convenience and efficiency",
+        "Led the development of Universal TranWare's 'TranAir' Android tablet application, empowering taxicab operators to communicate with the dispatch system efficiently through middleware and conduct secure credit card transactions using Moneris APIs with a Bluetooth POS printer The incorporation of turn-by-turn navigation and push-to-talk to dispatch within the application, leveraging Google APIs, improved operational efficiency and customer service",
+        "Presented and demonstrated the application's features and functionality at the annual Taxi, Limousine & Para-transit Association exhibition in San Francisco, showcasing the innovation and technological advancements to a wide audience, generating interest and potential business opportunities"
+
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Toronto",
-      "area": "Major in Astrophysics and Physics, and Computer Science",
+      "area": "B.Sc. in Astrophysics and Physics, and Computer Science",
       "studyType": "Honours Bachelor of Science",
       "startDate": "2006",
       "endDate": "2011",
@@ -191,6 +194,10 @@
       "level": 4
     },
     {
+      "name": "React Native",
+      "level": 3
+    },
+    {
       "name": "Android Dev",
       "level": 3
     }
@@ -204,25 +211,38 @@
   ],
   "languages": [
     {
-      "language": "",
-      "fluency": ""
+      "name": "English",
+      "level": "5"
+    },
+    {
+      "name": "Hungarian",
+      "level": "4"
     }
   ],
   "interests": [
     {
-      "name": "Astronomy"
+      "name": "Astronomy",
+      "icon": "rocket_launch"
     },
     {
-      "name": "Car enthusiast"
+      "name": "Car enthusiast",
+      "icon": "electric_car"
     },
     {
-      "name": "Gardening"
+      "name": "Gardening",
+      "icon": "yard"
     },
     {
-      "name": "Movies"
+      "name": "Lego",
+      "icon": "grid_view"
     },
     {
-      "name": "1940's Music"
+      "name": "Star Wars",
+      "icon": "theaters"
+    },
+    {
+      "name": "1940's Music",
+      "icon": "music_note"
     }
   ],
   "reference": [
@@ -230,7 +250,6 @@
       "name": "",
       "position": "",
       "company": "",
-      "address": [],
       "phone": "",
       "email": ""
     }

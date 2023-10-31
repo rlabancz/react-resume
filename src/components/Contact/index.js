@@ -10,17 +10,31 @@ export class Contact extends Component {
         return (
             <div className='contactContainer'>
                 <div className={`contactItem`}>
-                    <span className="material-icons contactIcon">mail</span> {data.email}
+                    <div className={`material-icons-outlined contactIcon`}>mail</div>
+                    <div className={`contactItem`}><a href={`mailto:${data.email}`}>{data.email}</a></div>
                 </div>
                 <div className={`contactItem`}>
-                    <span className="material-icons contactIcon">call</span> {data.phone}
+                    <div className={`material-icons-outlined contactIcon`}>call</div>
+                    <div className={`contactItem`}><a href={`tel:${data.phone}`}>{data.phone}</a></div>
                 </div>
                 <div className={`contactItem`}>
-                    <span className="material-icons contactIcon">person_pin_circle</span> {data.location}
+                    <div className={`material-icons-outlined contactIcon`}>person_pin_circle</div>
+                    <div className={`contactItem`}>{data.location}</div>
                 </div>
                 <div className={`contactItem`}>
-                    <span className="material-icons contactIcon">alternate_email</span> {data.username}
+                    <div className={`material-icons-outlined contactIcon`}>code</div>
+                    <div className={`contactItem`}>
+                        <a href={`https://github.com/${data.github}`}>{data.github}</a>
+                    </div>
                 </div>
+                {data.socialMedia && data.socialMedia.map((socialMedia, key) =>
+                    <div className={`contactItem`} key={key}>
+                        <div className={`material-icons-outlined contactIcon`}>{socialMedia.icon}</div>
+                        <div className={`contactItem`}>
+                            <a href={`${socialMedia.url}/${socialMedia.username}`}>{socialMedia.username}</a>
+                        </div>
+                    </div>
+                )}
             </div>
         );
     }

@@ -1,5 +1,5 @@
 .sectionContainer {
-    margin-bottom: 8px;
+    margin-block-end: 8px;
 }
 
 .sectionTitle {
@@ -9,20 +9,25 @@
 
 .sectionIcon {
     font-size: 14px;
-    line-height: 14px;
-    margin-top: 16px;
-    padding-right: 8px;
+    line-height: 18px;
+    margin-block-start: 14px;
+    margin-block-end: 14px;
+    padding-inline-end: 6px;
 }
 
 .sectionTitleName {
     font-size: 14px;
+    font-weight: bold;
     text-decoration: underline;
     text-transform: uppercase;
     text-underline-offset: 8px;
-    font-weight: bold;
 }
 
 .sectionBody {
     display: flex;
-    margin-left: 22px;
+    margin-inline-start: 20px;
+}
+
+.sectionBody.withIcons {
+    margin-inline-start: 4px;
 }

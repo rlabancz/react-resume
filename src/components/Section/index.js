@@ -9,12 +9,14 @@ export class Section extends Component {
 
         return (
             <div className='sectionContainer'>
-                <div className={`sectionTitle`}>
+                {title ? (
+                    <div className={`sectionTitle`}>
                         <div className="material-icons sectionIcon">{icon}</div>
-                    <h3 className={`sectionTitleName`}>
-                        {title}
-                    </h3>
-                </div>
+                        <h3 className={`sectionTitleName`}>
+                            {title}
+                        </h3>
+                    </div>
+                ) : null}
                 <div className={`sectionBody`}>
                     {body}
                 </div>

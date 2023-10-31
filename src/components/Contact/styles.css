@@ -1,6 +1,19 @@
-.contactIcon {
-    font-size: 11px;
-    line-height: 11px;
-    margin-top: 6px;
-    margin-bottom: 6px;
+.contactItem {
+    display: flex;
+    flex: 1;
+    margin-block-end: 4px;
+    word-break: break-all;
+}
+
+.contactItem .contactIcon {
+    align-items: center;
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+    margin-inline-end: 4px;
+}
+
+.contactItem a {
+    color: #F8F8F8;
+    text-decoration: none;
 }
