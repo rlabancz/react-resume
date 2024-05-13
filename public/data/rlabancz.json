@@ -28,6 +28,7 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
+        "Led the mobile app profile section redesigning effort, collaborating with multiple organizations to ensure successful approval",
         "Efficiently manage the web and mobile platform for Upgrades & Subscriptions, Leasing, and Vehicle Ownership, ensuring seamless customer experiences and revenue growth",
         "Collaborate with Product to craft and refine quarterly roadmaps, aligning both business and engineering priorities",
         "Coordinate with various team leads and QA Engineers to orchestrate weekly production code deployments, enhancing product delivery and reliability",
@@ -107,8 +108,8 @@
       "startDate": "2012",
       "endDate": "2016",
       "description": [
-        "Spearheaded a company-wide initiative to implement a design framework, based on AngularJS and Bootstrap, to achieve a unified look and feel for webapps, resulting in a cohesive and user-friendly online experience, strengthening the brand's image and user satisfaction",
-        "Assumed responsibility for interviewing, hiring, managing, and mentoring university interns, fostering a talent pipeline, and supporting the professional growth of emerging developers",
+        "Spearheaded company-wide initiative to implement an AngularJS and Bootstrap based design framework to achieve a unified look and feel for webapps, resulting in a united and user-friendly online experience, strengthening brand image and user satisfaction",
+        "Assumed responsibility for interviewing, hiring, managing, and mentoring university interns, fostering a talent, and supporting professional growth of emerging developers",
         "Executed a comprehensive redesign of existing AJAX-based web pages using an in-house Angular framework, optimizing user experience, and streamlining content delivery",
         "Pioneered the development of a cross-platform mobile push notification system for iOS and Android, seamlessly integrated with Passbook distribution, enhancing communication and customer engagement",
         "Designed and developed a real-time web app for rendering and modifying Passbooks, improving user convenience and interaction",
@@ -198,7 +199,7 @@
       "level": 3
     },
     {
-      "name": "Android Dev",
+      "name": "Android",
       "level": 3
     }
   ],

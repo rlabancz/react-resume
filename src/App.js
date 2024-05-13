@@ -33,7 +33,9 @@ function App() {
     },[]);
 
     return (
-        <div className={`print-mode`}>
+        <div className={`print-mode print-border-`}>
+            <div className={`print-border-`}></div>
+            <div className={`print-border-`}></div>
             {data ?
                 <div className={`fullPageContainer`}>
                     <div className={`leftSideContainer`}>
@@ -49,7 +51,7 @@ function App() {
                         <div className={`rightSideContent`}>
                             {data.objective && data.objective !== '' ?
                                 <Section title="Objective" icon={`crisis_alert`} body={data.objective}/>
-                                : null }
+                                : null}
                             <Section title="Experience" icon={`work`} body={<WorkExperience data={data.work}/>}/>
                         </div>
                     </div>

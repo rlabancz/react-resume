@@ -7,3 +7,29 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 12px;
 }
+
+.print-border
+{
+  margin: 0;
+  padding: 0;
+  width: 8.5in;
+  height: 11in;
+  clear: both;
+  page-break-after: always;
+}
+
+.print-border-x {
+  position: absolute;
+  height: 1px;
+  width: 8.5in;
+  background: black;
+  margin-top: 11in;
+}
+
+.print-border-y {
+  position: fixed;
+  height: 11in;
+  width: 1px;
+  background: black;
+  margin-left: 8.5in;
+}
