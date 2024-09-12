@@ -11,9 +11,23 @@ import Interests from "./components/Interests";
 
 function App() {
 
+    const queryParameters = new URLSearchParams(window.location.search);
+    const theme = queryParameters.get("theme");
+
+    let themeClass = '';
+    switch (theme) {
+        case 'basic':
+            themeClass = 'simple';
+            break;
+
+        case 'print':
+            themeClass = 'print-mode';
+            break;
+    }
+    
     const [data, setData] = useState(null);
 
-    const getData=()=>{
+    const getData=()=> {
         fetch('data/rlabancz.json',{
             headers : {
                 'Content-Type': 'application/json',
@@ -33,9 +47,9 @@ function App() {
     },[]);
 
     return (
-        <div className={`print-mode print-border-`}>
-            <div className={`print-border-`}></div>
-            <div className={`print-border-`}></div>
+        <div className={`${themeClass}`}>
+            <div className={`${theme === 'print' ? 'print-border-x' : ''}`}></div>
+            <div className={`${theme === 'print' ? 'print-border-y' : ''}`}></div>
             {data ?
                 <div className={`fullPageContainer`}>
                     <div className={`leftSideContainer`}>

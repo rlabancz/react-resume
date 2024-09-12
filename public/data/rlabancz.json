@@ -28,6 +28,7 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
+        "Vehicle Demo App",
         "Led the mobile app profile section redesigning effort, collaborating with multiple organizations to ensure successful approval",
         "Efficiently manage the web and mobile platform for Upgrades & Subscriptions, Leasing, and Vehicle Ownership, ensuring seamless customer experiences and revenue growth",
         "Collaborate with Product to craft and refine quarterly roadmaps, aligning both business and engineering priorities",
@@ -82,7 +83,6 @@
         "Crafted the Solar Roof marketing and reservation page, facilitating product launch, attracting potential customers, and driving sales",
         "Successfully integrated SolarCity's development environment into Tesla's, harmonizing processes and improving overall efficiency",
         "Updated the Tesla Powerwall configurator, streamlining the order-taking process and increasing sales for this product line"
-
       ]
     },
     {
@@ -93,11 +93,8 @@
       "startDate": "2016",
       "endDate": "2017",
       "description": [
-        "Worked as a consultant to Bloomingdale's to redesign the 'Sign In' and 'Profile Page' section of the store website, enhancing user experience and engagement using a Lean Lab approach",
-        "Transformed JavaScript & JSP-based web pages into responsive designs using Backbone and Marionette, resulting in improved accessibility across devices and higher customer satisfaction",
-        "Revamped web page layout and design by leveraging Handlebars, SCSS, and the Foundation framework, leading to a more visually appealing and user-friendly website",
-        "Actively participated in scrum meetings with stakeholders, ensuring informed decision-making and alignment with the company's value-per-feature approach, which facilitated more efficient product development and delivery"
-
+        "Redesigned Bloomingdale's 'Sign In' and 'Profile Page' section of the store website to enhance user experience and engagement using a Lean Lab approach",
+        "Transformed a JavaScript & JSP-based web pages into responsive designs using Backbone and Marionette to increase mobile compatibility"
       ]
     },
     {
@@ -108,16 +105,12 @@
       "startDate": "2012",
       "endDate": "2016",
       "description": [
-        "Spearheaded company-wide initiative to implement an AngularJS and Bootstrap based design framework to achieve a unified look and feel for webapps, resulting in a united and user-friendly online experience, strengthening brand image and user satisfaction",
-        "Assumed responsibility for interviewing, hiring, managing, and mentoring university interns, fostering a talent, and supporting professional growth of emerging developers",
-        "Executed a comprehensive redesign of existing AJAX-based web pages using an in-house Angular framework, optimizing user experience, and streamlining content delivery",
-        "Pioneered the development of a cross-platform mobile push notification system for iOS and Android, seamlessly integrated with Passbook distribution, enhancing communication and customer engagement",
-        "Designed and developed a real-time web app for rendering and modifying Passbooks, improving user convenience and interaction",
-        "Created a Jenkins build-server monitoring app that displays analytics and statistics of unit test results using AngularJS and D3, enhancing development efficiency and quality",
-        "Developed the 'Genesys Care' iOS and Android application, empowering customers to monitor and manage customer support tickets, leading to increased customer satisfaction and loyalty",
-        "Collaboratively created the Genesys SaaS Agent Monitoring web app in a TDD style, featuring Jasmine unit tests and continuous integration with Jenkins build servers, ensuring high-quality and reliable software",
-        "Designed an application for logging into websites based on credentials stored on NFC chips, simplifying and securing user access to online platforms",
-        "Demonstrated expertise and enthusiasm for NFC technology by delivering company-wide presentations on its use cases and technical specifications, fostering awareness and understanding across the organization"
+        "Led the implementation of an AngularJS design framework, unifying web app interfaces and strengthening the company's brand image",
+        "Interviewed, hired, and mentored university interns, fostering talent and supporting their professional growth",
+        "Pioneered a cross-platform push notification system for iOS and Android",
+        "Developed a real-time web app for rendering and modifying Passbooks",
+        "Co-developed the 'Genesys Care' iOS and Android application, empowering customers to monitor and manage customer support tickets",
+        "Prototyped an NFC-based login application, and delivered presentations on NFC use cases, boosting company-wide awareness and understanding"
       ]
     },
     {
@@ -128,10 +121,8 @@
       "startDate": "2010",
       "endDate": "2012",
       "description": [
-        "Created the NexTaxi Android application, providing users with a user-friendly platform to reserve and track their taxicabs, resulting in improved customer satisfaction and engagement Additionally, seamless integration with the 'TranAir' application streamlined in-app payments, enhancing convenience and efficiency",
-        "Led the development of Universal TranWare's 'TranAir' Android tablet application, empowering taxicab operators to communicate with the dispatch system efficiently through middleware and conduct secure credit card transactions using Moneris APIs with a Bluetooth POS printer The incorporation of turn-by-turn navigation and push-to-talk to dispatch within the application, leveraging Google APIs, improved operational efficiency and customer service",
-        "Presented and demonstrated the application's features and functionality at the annual Taxi, Limousine & Para-transit Association exhibition in San Francisco, showcasing the innovation and technological advancements to a wide audience, generating interest and potential business opportunities"
-
+        "Created the NexTaxi Android application, providing users with a user-friendly platform to reserve and track their taxicabs rides, and make payments in-app",
+        "Led the development of Universal TranWare's 'TranAir' Android app, enabling taxicab operators to efficiently communicate with dispatch and securely process credit card transactions"
       ]
     }
   ],
