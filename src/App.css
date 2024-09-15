@@ -48,3 +48,7 @@
 .print-mode .workExperience:last-child {
     padding-block-end: 8px;
 }
+
+.minimal {
+    text-decoration: none !important;
+}

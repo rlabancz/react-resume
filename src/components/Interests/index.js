@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import '@material-design-icons/font/outlined.css';
 import styles from './styles.css';
+
 export class Interests extends Component {
 
     render() {

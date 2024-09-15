@@ -5,3 +5,25 @@
 .educationInstitution {
     font-style: italic;
 }
+
+.education {
+    display: flex;
+    flex-direction: column;
+}
+
+.education-title {
+    display: flex;
+    margin-top: 8px;
+    width: 100%;
+}
+
+.education-left,
+.education-right {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.education-right {
+    text-align: right;
+}

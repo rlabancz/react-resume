@@ -7,6 +7,12 @@
     flex-direction: row;
 }
 
+.section-title {
+    border-bottom: solid 1px black;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+
 .sectionIcon {
     font-size: 14px;
     line-height: 18px;
