@@ -29,7 +29,16 @@ export class Contact extends Component {
                 </div>
                 {data.socialMedia && data.socialMedia.map((socialMedia, key) =>
                     <div className={`contactItem`} key={key}>
-                        <div className={`material-icons-outlined contactIcon`}>{socialMedia.icon}</div>
+                        {socialMedia.icon ?
+                            <div className={`material-icons-outlined contactIcon`}>{socialMedia.icon}</div>
+                            : null
+                        }
+
+                        {!socialMedia.icon && socialMedia.svg ?
+                            <div className="contactIcon" dangerouslySetInnerHTML={{__html: socialMedia.svg}}/>
+                            : null
+                        }
+
                         <div className={`contactItem`}>
                             <a href={`${socialMedia.url}/${socialMedia.username}`}>{socialMedia.username}</a>
                         </div>

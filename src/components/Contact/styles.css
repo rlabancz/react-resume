@@ -1,7 +1,8 @@
 .contactItem {
     display: flex;
     flex: 1;
-    margin-block-end: 4px;
+    margin-block-start: 3px;
+    margin-block-end: 3px;
     word-break: break-all;
 }
 

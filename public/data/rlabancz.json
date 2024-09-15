@@ -12,6 +12,12 @@
     "username": "rlabancz",
     "socialMedia": [
       {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" viewBox=\"0 0 24 24\" {...props}><path fill=\"currentColor\" d=\"M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93zM6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37z\"></path></svg>",
+        "network": "LinkedIn",
+        "username": "rlabancz",
+        "url": "https://www.linkedin.com/in"
+      },
+      {
         "icon": "alternate_email",
         "network": "Twitter",
         "username": "rlabancz",
@@ -28,20 +34,14 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
-        "Vehicle Demo App",
-        "Led the mobile app profile section redesigning effort, collaborating with multiple organizations to ensure successful approval",
-        "Efficiently manage the web and mobile platform for Upgrades & Subscriptions, Leasing, and Vehicle Ownership, ensuring seamless customer experiences and revenue growth",
-        "Collaborate with Product to craft and refine quarterly roadmaps, aligning both business and engineering priorities",
-        "Coordinate with various team leads and QA Engineers to orchestrate weekly production code deployments, enhancing product delivery and reliability",
-        "Continuously assess product updates with design and product teams to ensure achievable outcomes, resulting in higher-quality releases and improved user satisfaction",
-        "Successfully implemented a QR-code-based auto sign-in webpage for Hertz rental customers, simplifying the customer experience and increasing efficiency",
-        "Streamlined the mobile app by architecting a web-based customizable splash and guest page, reducing deployment time and simplifying content management, saving valuable time for both Engineering and Product teams",
-        "Empower QA and engineering teams to prioritize and maintain automation testing, leading to increased efficiency and reduced overtime for QA in weekly regression testing, improving resource allocation and product quality",
-        "Manage and actively mentored the professional development of software engineers on my team, guiding their career progression from associate level to senior level, resulting in a skilled and motivated workforce",
-        "Responsible for on-call duties during and after business hours to minimize customer impact during outages, ensuring uninterrupted service and customer satisfaction",
-        "Regularly assess pod health to proactively prepare for and respond to spikes in traffic, improving system resilience and customer experience",
-        "Foster collaboration with the support team to promptly address and resolve customer complaints and issues on both web and mobile platforms, enhancing customer satisfaction and loyalty",
-        "Successfully spearheaded the seamless transition of multiple product lines from the web platform to the mobile app, skillfully guiding the team to excel with React Native, expanding the company's digital footprint and customer reach"
+        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>+1.9MM</strong> customers), Vehicle Ownership, and Messaging platform that impacts <strong>+6MM</strong> Tesla owners and <strong>+20MM</strong> accounts globally",
+        "Collaborate with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
+        "Currently manage 4 Sr. Software Engineers, providing mentorship and coaching in their growth and development <br>&bull; At peak, managed a team of <strong>13</strong> engineers, ranging from Jr. to Sr.",
+        "Oversee weekly code deployments with team leads and QA to ensure <strong>99.999%</strong> web and mobile service uptime",
+        "Executed the launch of the Vehicle Demo App and increased test drives by <strong>21%</strong>",
+        "Led the mobile app profile section redesign and reduced account related customer support cases by <strong>30%</strong>",
+        "Reduced deployment time of the splash screen and guest marketing pages via an API from <strong>days to minutes</strong> bypassing app store submission constraints",
+        "Successfully transitioned multiple product lines from the web (React) to the mobile app with React Native to expand Tesla’s digital footprint and customer reach"
       ]
     },
     {
@@ -52,16 +52,12 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
-        "Implemented a data-driven approach to streamline UI logic, significantly reducing time-to-market for new products and enhancing product competitiveness",
-        "Supervised a team of 9 Software Engineers and 4 QA Engineers, ensuring consistent efficient project delivery and product quality",
-        "Collaborated with the vehicle division to introduce in-car purchase of software upgrades and subscriptions, generating additional revenue streams",
-        "Conducted interviews and hired engineers and QA specialists at various experience levels (Associate to Senior), bolstering the team's capabilities and productivity",
-        "Advocated for the adoption of WCAG 2.1 standards and worked with Product and Design to meet them, improving accessibility and expanding the user base",
-        "Orchestrated daily scrum stand-up meetings and coordinated story time sessions for engineers across multiple product lines, boosting team collaboration and productivity",
-        "Collaborated with multiple departments to successfully launch the Captive Leasing and Ownership Transfer web platform, enabling new business opportunities",
-        "Led the migration of the legacy web stack from Drupal PHP & JavaScript to Node & ReactJS, improving performance and scalability",
-        "Launched Premium Connectivity via the web platform, establishing a foundation for future vehicle subscription services and enhancing revenue",
-        "Managed and navigated a company-wide Reduction in Force (RIF) with transparent communication and compassionate support, minimizing disruption and maintaining employee morale"
+        "Grew and managed a team from 3 to 13 staff, allowing for the creation of 4 new product lines for Tesla: Subscriptions, Ownership Transfer, Captive Leasing, and Contact Us (Knowledge Base Support with agent chat)",
+        "Reduced time-to-market for new vehicle subscription products to new locales via a JSON-driven api",
+        "Successfully launched Premium Connectivity via the web (later introduced in the mobile app), the first vehicle subscription service, bringing in <strong>1.4MM</strong> active subscriptions yearly",
+        "Created the capability for in-car vehicle subscription services, increasing additional source of revenue by <strong>40%</strong>",
+        "Advocated for and implemented the adoption of WCAG 2.1 standards to improve accessibility for Tesla users",
+        "<strong>One of 15</strong> digital team members that worked on secretive Cybertruck project; created the original CSS theme for Cybertruck on web <br>&bull; Maintained sign-up, event page, and live stream server for Cybertruck reveal <br>&bull; <strong>+140K</strong> reservation made within 24 hours of unveiling"
       ]
     },
     {
@@ -72,17 +68,12 @@
       "startDate": "Feb. 2017",
       "endDate": "Nov. 2019",
       "description": [
-        "Enhanced webpages by implementing the Cybertruck CSS theme and providing essential support for a successful livestream event, boosting brand engagement",
-        "Pioneered the development of the initial Tesla Insurance web platform, enabling the company to offer a new product to customers and expand its market presence",
-        "Architected a versatile PHP boilerplate burst-app using Slim, empowering multiple teams to rapidly develop and extend applications, increasing development efficiency",
-        "Developed and maintained the Model Y livestream sign-up and event page, enhancing customer engagement and interaction, leading to increased interest and brand loyalty",
-        "Advocated for and implemented design patterns that standardized coding practices for CSS and JavaScript, resulting in improved code quality and maintainability",
-        "Contributed valuable insights and feedback through code reviews, ensuring high-quality code and reducing the likelihood of post-release issues",
-        "Rapidly designed and built the Tesla Semi and Roadster reservation web pages before a global unveiling, creating excitement and anticipation in the market",
-        "Developed an Angular-based app to streamline translation processes, accelerating global expansion and product localization efforts",
-        "Crafted the Solar Roof marketing and reservation page, facilitating product launch, attracting potential customers, and driving sales",
-        "Successfully integrated SolarCity's development environment into Tesla's, harmonizing processes and improving overall efficiency",
-        "Updated the Tesla Powerwall configurator, streamlining the order-taking process and increasing sales for this product line"
+        "Wrote the original code for Tesla Insurance web platform; becoming the first car company to offer its own insurance coverage for Tesla drivers",
+        "Developed and maintained the Model Y livestream sign-up and event page",
+        "Created the reservation web pages for the Tesla Semi and Roadster with a $45K deposit; <strong>one of 5</strong> people entrusted with the entire web project",
+        "Developed an Angular-based app that consumed JSON files to streamline translation processes which accelerated global expansion and product localization efforts; reduced manual labor for translators from <strong>days to hours<strong>",
+        "Built the Solar Roof marketing and reservation pages; saw <strong>+2000</strong> reservations within 24 hours of launch",
+        "Integrated Solar City’s marketing and reservation pages into Tesla’s development environment after acquisition; provided knowledge transfer to Solar City engineers on Tesla’s development life cycle and code base"
       ]
     },
     {
@@ -105,24 +96,24 @@
       "startDate": "2012",
       "endDate": "2016",
       "description": [
-        "Led the implementation of an AngularJS design framework, unifying web app interfaces and strengthening the company's brand image",
-        "Interviewed, hired, and mentored university interns, fostering talent and supporting their professional growth",
-        "Pioneered a cross-platform push notification system for iOS and Android",
+        "Led the implementation of an AngularJS design framework to unify web app interfaces",
+        "Interviewed, hired, and mentored university interns, fostering talent and supporting their professional development",
+        "Built a cross-platform push notification system for iOS and Android",
         "Developed a real-time web app for rendering and modifying Passbooks",
-        "Co-developed the 'Genesys Care' iOS and Android application, empowering customers to monitor and manage customer support tickets",
-        "Prototyped an NFC-based login application, and delivered presentations on NFC use cases, boosting company-wide awareness and understanding"
+        "Co-developed the 'Genesys Care' iOS and Android application to let customers monitor and manage customer support tickets",
+        "Prototyped an NFC-based login application and delivered presentation training on NFC use cases to engineering team"
       ]
     },
     {
       "company": "Integral Group Inc.",
       "title": "Mobile Developer",
-      "location": "Markham, CA",
+      "location": "Markham, ON",
       "website": "https://www.integralgroup.ca/",
       "startDate": "2010",
       "endDate": "2012",
       "description": [
-        "Created the NexTaxi Android application, providing users with a user-friendly platform to reserve and track their taxicabs rides, and make payments in-app",
-        "Led the development of Universal TranWare's 'TranAir' Android app, enabling taxicab operators to efficiently communicate with dispatch and securely process credit card transactions"
+        "Created the NexTaxi Android application for users to reserve and track their taxicabs rides and make payments in-app",
+        "Led the development of Universal TranWare's 'TranAir' Android app to let taxicab operators communicate with dispatch and securely process credit card transactions"
       ]
     }
   ],
@@ -168,6 +159,35 @@
       "summary": ""
     }
   ],
+  "launches": [
+    {
+      "link": "https://x.com/SawyerMerritt/status/1775971874750537945",
+      "name": "Vehicle Demo"
+    },
+    {
+      "link": "https://x.com/SawyerMerritt/status/1762216101193150704",
+      "name": "Profile IA Redesign"
+    },
+    {
+      "link": "https://electrek.co/2019/12/07/tesla-starts-chargin-month-premium-connectivity-features",
+      "name": "Premium Connectivity"
+    },
+    {
+      "name": "Cybertruck Launch"
+    },
+    {
+      "link": "https://www.tesla.com/blog/introducing-tesla-insurance",
+      "name": "Tesla Insurance"
+    },
+    {
+      "link": "https://www.teslarati.com/tesla-model-y-skyrim-easter-egg/",
+      "name": "Model Y Launch"
+    },
+    {
+      "link": "https://web.archive.org/web/20171119123606/tesla.com/teslaroadster/reserve",
+      "name": "Tesla Roadster Launch"
+    }
+  ],
   "skills": [
     {
       "name": "JavaScript",
@@ -191,6 +211,24 @@
     },
     {
       "name": "Android",
+      "level": 3
+    },
+    {
+      "name": "Figma",
+      "level": 3
+    },
+    {
+      "name": "Firebase",
+      "level": 3
+    },
+    {
+      "name": "Splunk",
+      "level": 3
+    },{
+      "name": "Confluence",
+      "level": 3
+    },{
+      "name": "Jira",
       "level": 3
     }
   ],

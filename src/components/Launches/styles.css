@@ -1,0 +1,16 @@
+.launchContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.launchItem {
+    display: flex;
+    flex-direction: column;
+    margin-block-end: 4px;
+    padding-inline-end: 4px;
+}
+
+.launchLink {
+    color: #FFFFFF;
+}

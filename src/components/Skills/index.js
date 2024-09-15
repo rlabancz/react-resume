@@ -6,7 +6,9 @@ import styles from './styles.css';
 export class Skills extends Component {
 
     render() {
-        const {data} = this.props;
+        const {data, showBar} = this.props;
+
+        const showSkillBar = showBar;
 
         return (
             <div className='skillsContainer'>
@@ -15,12 +17,14 @@ export class Skills extends Component {
                         <div className={`skillName`}>
                             {skill.name}
                         </div>
-                        <div className={`skillLevel`}>
-                            <div className={`skillBox`}>
-                                <div className={`skillFill fill-${skill.level}`}></div>
+                        {showSkillBar && skill.level ?
+                            <div className={`skillLevel`}>
+                                <div className={`skillBox`}>
+                                    <div className={`skillFill fill-${skill.level}`}></div>
+                                </div>
                             </div>
-
-                        </div>
+                            : null
+                        }
                     </div>
 
                 )}

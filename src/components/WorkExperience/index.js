@@ -12,13 +12,15 @@ export class WorkExperience extends Component {
                     <div className={`workExperience`} key={key}>
                         <div className={`workExperienceHeader`}>
                             {experience.company ?
-                                <div className={`companyName ${key === 0 ? 'most-recent': ''}`}>
-                                    {experience.company} <span className={`companyLocation`}>({experience.location})</span>
+                                <div className={`companyName ${key === 0 ? 'most-recent' : ''}`}>
+                                    <a href={experience.website} className={`companyLink`} target="_blank"
+                                       rel="noopener noreferrer">{experience.company}</a> <span
+                                    className={`companyLocation`}>({experience.location})</span>
                                 </div>
                                 : null
                             }
                             <div className={`companyPosition`}>
-                                <div className={`companyTitle`}>
+                            <div className={`companyTitle`}>
                                     {experience.title}
                                 </div>
 
@@ -38,7 +40,7 @@ export class WorkExperience extends Component {
                         <div className={`companyDescription`}>
                             <ul className={`companyDescriptionList`}>
                                 {experience.description.map((description, key) =>
-                                    <li className={`companyDescriptionItem`} key={key}>{description}</li>
+                                    <li className={`companyDescriptionItem`} key={key} dangerouslySetInnerHTML={{__html: description}}></li>
                                 )}
                             </ul>
                         </div>

@@ -37,11 +37,14 @@
 }
 
 .print-mode .workExperience:nth-child(3) {
-    padding-block-start: 24px;
-    margin-top: 16px;
+    padding-block-end: 8px;
 }
 
-.print-mode .workExperience:nth-child(6) {
-    padding-block-start: 8px;
-    margin-top: 8px;
+.print-mode .workExperience:nth-child(4) {
+    padding-block-start: 32px;
+    margin-top: 48px;
+}
+
+.print-mode .workExperience:last-child {
+    padding-block-end: 8px;
 }
