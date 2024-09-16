@@ -12,30 +12,32 @@ export class Skills extends Component {
         const showSkillBar = showBar;
 
         return (
-            theme === 'minimal' ?
-                <div className={styles['skills']}>
-                    {data.map((skill, key) =>
-                        <span key={key}>{skill.name}, </span>
-                    )}
-                </div>
-                :
-                <div className='skillsContainer'>
-                    {data.map((skill, key) =>
-                        <div className={`skillItem`} key={key}>
-                            <div className={`skillName`}>
-                                {skill.name},
-                            </div>
-                            {showSkillBar && skill.level ?
-                                <div className={`skillLevel`}>
-                                    <div className={`skillBox`}>
-                                        <div className={`skillFill fill-${skill.level}`}></div>
-                                    </div>
+            data ?
+                theme === 'minimal' ?
+                    <div className={styles['skills']}>
+                        {data.map((skill, key) =>
+                            <span key={key}>{skill.name}, </span>
+                        )}
+                    </div>
+                    :
+                    <div className='skillsContainer'>
+                        {data.map((skill, key) =>
+                            <div className={`skillItem`} key={key}>
+                                <div className={`skillName`}>
+                                    {skill.name},
                                 </div>
-                                : null
-                            }
-                        </div>
-                    )}
-                </div>
+                                {showSkillBar && skill.level ?
+                                    <div className={`skillLevel`}>
+                                        <div className={`skillBox`}>
+                                            <div className={`skillFill fill-${skill.level}`}></div>
+                                        </div>
+                                    </div>
+                                    : null
+                                }
+                            </div>
+                        )}
+                    </div>
+                : <></>
         );
     }
 }

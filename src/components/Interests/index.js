@@ -9,18 +9,20 @@ export class Interests extends Component {
         const {data} = this.props;
 
         return (
-            <div className='interestsContainer'>
-                {data.map((interest, key) =>
-                    <div className={`interestItem`} key={key}>
-                        <div className={`material-icons-outlined interestIcon`}>
-                            {interest.icon}
+            data ?
+                <div className='interestsContainer'>
+                    {data.map((interest, key) =>
+                        <div className={`interestItem`} key={key}>
+                            <div className={`material-icons-outlined interestIcon`}>
+                                {interest.icon}
+                            </div>
+                            <div className={`interestName`}>
+                                {interest.name}
+                            </div>
                         </div>
-                        <div className={`interestName`}>
-                            {interest.name}
-                        </div>
-                    </div>
-                )}
-            </div>
+                    )}
+                </div>
+                : <></>
         );
     }
 }

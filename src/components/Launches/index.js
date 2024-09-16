@@ -10,27 +10,29 @@ export class Launches extends Component {
         const {theme, data} = this.props;
 
         return (
-            theme === 'minimal' ?
-                <div className={styles['launch']}>
-                    {data.map((launch, key) =>
-                        <span key={key}>{launch.name}, </span>
-                    )}
-                </div>
-                :
-                <div className='launchesContainer'>
-                    {data.map((launch, key) =>
-                        <div className={`launchItem`} key={key}>
-                            <div className={`launchName`}>
-                                {
-                                    launch.link ?
-                                        <a href={launch.link} className={`launchLink`} target='_blank' rel='noopener noreferrer'>{launch.name}</a>
-                                        :
-                                        <span>{launch.name}</span>
-                                }
+            data ?
+                theme === 'minimal' ?
+                    <div className={styles['launch']}>
+                        {data.map((launch, key) =>
+                            <span key={key}>{launch.name}, </span>
+                        )}
+                    </div>
+                    :
+                    <div className='launchesContainer'>
+                        {data.map((launch, key) =>
+                            <div className={`launchItem`} key={key}>
+                                <div className={`launchName`}>
+                                    {
+                                        launch.link ?
+                                            <a href={launch.link} className={`launchLink`} target='_blank' rel='noopener noreferrer'>{launch.name}</a>
+                                            :
+                                            <span>{launch.name}</span>
+                                    }
+                                </div>
                             </div>
-                        </div>
-                    )}
-                </div>
+                        )}
+                    </div>
+                : <></>
         );
     }
 }

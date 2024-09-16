@@ -9,25 +9,27 @@ export class Section extends Component {
         const {theme, title, icon, body} = this.props;
 
         return (
-            theme === 'minimal' ?
-                <div className={styles['section']}>
-                    <div className={`section-title`}>{title}</div>
-                    {body}
-                </div>
-                :
-                <div className='sectionContainer'>
-                    {title ? (
-                        <div className={`sectionTitle`}>
-                            <div className="material-icons sectionIcon">{icon}</div>
-                            <h3 className={`sectionTitleName`}>
-                                {title}
-                            </h3>
-                        </div>
-                    ) : null}
-                    <div className={`sectionBody`}>
+            body ?
+                theme === 'minimal' ?
+                    <div className={styles['section']}>
+                        <div className={`section-title`}>{title}</div>
                         {body}
                     </div>
-                </div>
+                    :
+                    <div className='sectionContainer'>
+                        {title ? (
+                            <div className={`sectionTitle`}>
+                                <div className="material-icons sectionIcon">{icon}</div>
+                                <h3 className={`sectionTitleName`}>
+                                    {title}
+                                </h3>
+                            </div>
+                        ) : null}
+                        <div className={`sectionBody`}>
+                            {body}
+                        </div>
+                    </div>
+                : <></>
         );
     }
 }
