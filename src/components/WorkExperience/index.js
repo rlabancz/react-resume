@@ -24,10 +24,10 @@ export class WorkExperience extends Component {
                                         <div>{experience.startDate} - {experience.endDate ? experience.endDate : 'Present'}</div>
                                     </div>
                                 </div>
-                                <ul className={`experience-description`}>
+                                <ul className={`experience-descriptions`}>
                                     {experience.description.map((description, key) =>
-                                        <li className={``} key={key}
-                                            dangerouslySetInnerHTML={{__html: description}}></li>
+                                        <li className={`experience-description`} key={key}
+                                            dangerouslySetInnerHTML={{__html: `• ` + description}}></li>
                                     )}
                                 </ul>
                             </div>
