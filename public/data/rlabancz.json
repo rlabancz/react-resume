@@ -34,14 +34,14 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
-        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>1.9MM+</strong> customers), Vehicle Ownership, and Messaging platform that impacts <strong>6MM+</strong> Tesla owners and <strong>20MM+</strong> accounts globally",
-        "Led a high-performing team of <strong>13</strong> engineers at its peak, from Jr. to Sr. levels, providing mentorship, coaching, and professional development guidance; now focused on leading a team of 4 Sr. Software Engineers",
-        "Oversee weekly code deployments with team leads and QA to ensure <strong>99.999%</strong> web and mobile service uptime",
+        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>1.9MM+</strong> customers), Vehicle Ownership, and Messaging platforms that impacts <strong>6MM+</strong> Tesla owners and <strong>20MM+</strong> accounts globally",
+        "Led a high-performing team of <strong>13</strong> engineers at its peak, from Jr. to Sr. levels, providing mentorship, coaching, and professional development guidance; now focused on leading a team of 4 Sr. Engineers and QA",
+        "Oversee weekly code deployments with team leads and QA, ensuring <strong>99.999%</strong> uptime for web and mobile services.",
         "Collaborate with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
         "Led the mobile app profile and side menu redesign effort, reducing account related customer support cases by <strong>30%</strong>",
         "Executed the launch of the Vehicle Demo App and increased test drives by <strong>21%</strong>",
-        "Reduced deployment time of the splash screen and guest marketing pages via an API from <strong>days to minutes</strong> bypassing app store submission constraints",
-        "Successfully transitioned multiple product lines from the web (React) to the mobile app with React Native to expand Tesla’s digital footprint and customer reach"
+        "Reduced deployment time for splash screens and guest marketing pages via an API, cutting time from <strong>days to minutes</strong> by bypassing app store submission constraints",
+        "Successfully transitioned multiple product lines from the web (React) to mobile (React Native), expanding Tesla’s digital footprint and customer reach"
       ]
     },
     {
@@ -52,12 +52,12 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
-        "Grew and managed a team of Engineers and QA from 3 to 13, allowing for the creation of 4 new product lines for Tesla: Subscriptions, Ownership Transfer, Captive Leasing, and Contact Us (Knowledge Base Support with agent chat)",
-        "Successfully launched Premium Connectivity via the web (later introduced in the mobile app), the first vehicle subscription service, bringing in <strong>1.4MM+</strong> active subscriptions yearly",
-        "Created the capability for in-car vehicle subscription services leveraging existing backend APIs, increasing additional source of revenue by <strong>40%</strong>",
-        "Reduced time-to-market for new vehicle subscription products to new locales via a JSON-driven api without needing app store releases",
+        "Grew and managed a team of engineers and QA from <strong>3 to 13</strong>, enabling the creation of <strong>4 new product lines</strong> for Tesla: Subscriptions, Ownership Transfer, Captive Leasing, and Contact Us (Knowledge Base Support with agent chat)",
+        "Successfully launched Premium Connectivity via the web (later introduced in the mobile app), Tesla’s first vehicle subscription service, resulting in <strong>1.4MM+</strong> active subscriptions annually",
+        "Created in-car vehicle subscription services by leveraging existing backend APIs, increasing this additional revenue source by <strong>40%</strong>",
+        "Reduced time-to-market for new vehicle subscription products in new locales by using a JSON-driven API, eliminating the need for app store releases",
         "Advocated for and implemented the adoption of WCAG 2.1 standards to improve accessibility for Tesla users",
-        "<strong>One of 15</strong> digital team members that worked on secretive Cybertruck project; created the original CSS theme for Cybertruck on web <br>&bull; Maintained sign-up, event page, and live stream server for Cybertruck reveal <br>&bull; <strong>140K+</strong> reservation made within 24 hours of unveiling"
+        "<strong>One of 15</strong> digital team members that worked on confidential Cybertruck project; created the original CSS theme for Cybertruck on web <br>&bull; Maintained sign-up, event page, and live stream server for Cybertruck reveal <br>&bull; <strong>140K+</strong> reservation made within 24 hours of the unveiling"
       ]
     },
     {
@@ -68,12 +68,12 @@
       "startDate": "Feb. 2017",
       "endDate": "Nov. 2019",
       "description": [
-        "Wrote the original code for Tesla Insurance web platform; becoming the first car company to offer its own insurance coverage for Tesla drivers",
+        "Wrote the original code for the Tesla Insurance web platform, making Tesla the first car company to offer its own insurance coverage for Tesla drivers",
         "Developed and maintained the Model Y livestream sign-up and event page",
-        "Created the reservation web pages for the Tesla Semi and Roadster with a $45K deposit; <strong>one of 5</strong> people entrusted with the entire web project",
-        "Developed an Angular-based app that consumed JSON files to streamline translation processes which accelerated global expansion and product localization efforts; reduced manual labor for translators from <strong>days to hours<strong>",
+        "Created the reservation web pages for the Tesla Semi and Roadster with a $45K deposit; <strong>one of 5 people</strong> entrusted with the entire web project",
+        "Developed an Angular-based app that consumed JSON files to streamline translation processes, accelerating global expansion and product localization efforts; reduced manual labor for translators from <strong>days to hours<strong>",
         "Built the Solar Roof marketing and reservation pages; saw <strong>200+</strong> reservations within 24 hours of launch",
-        "Integrated Solar City’s marketing and reservation pages into Tesla’s development environment after acquisition; provided knowledge transfer to Solar City engineers on Tesla’s development life cycle and code base"
+        "Integrated SolarCity’s marketing and reservation pages into Tesla’s development environment following the acquisition, and provided knowledge transfer to SolarCity engineers on Tesla’s development lifecycle and code base"
       ]
     },
     {
@@ -84,8 +84,8 @@
       "startDate": "2016",
       "endDate": "2017",
       "description": [
-        "Redesigned Bloomingdale's 'Sign In' and 'Profile Page' section of the store website to enhance user experience and engagement using a Lean Lab approach",
-        "Transformed a JavaScript & JSP-based web pages into responsive designs using Backbone and Marionette to increase mobile compatibility"
+        "Redesigned Bloomingdale’s ‘Sign In’ and ‘Profile Page’ sections of the store website using a Lean Lab approach to enhance user experience and engagement",
+        "Transformed JavaScript and JSP-based web pages into responsive designs using Backbone and Marionette, improving mobile compatibility"
       ]
     },
     {
@@ -96,12 +96,12 @@
       "startDate": "2012",
       "endDate": "2016",
       "description": [
-        "Led the implementation of an AngularJS design framework to unify web app interfaces",
+        "Led the implementation of an AngularJS design framework to unify web application interfaces",
         "Interviewed, hired, and mentored university interns, fostering talent and supporting their professional development",
-        "Built a cross-platform push notification system for iOS and Android",
+        "Built a cross-platform push notification system for both iOS and Android",
         "Developed a real-time web app for rendering and modifying Passbooks",
         "Co-developed the 'Genesys Care' iOS and Android application to let customers monitor and manage customer support tickets",
-        "Prototyped an NFC-based login application and delivered presentation training on NFC use cases to engineering team"
+        "Prototyped an NFC-based login application and provided presentation training on NFC use cases to the engineering team"
       ]
     },
     {
@@ -112,8 +112,8 @@
       "startDate": "2010",
       "endDate": "2012",
       "description": [
-        "Created the NexTaxi Android application for users to reserve and track their taxicabs rides and make payments in-app",
-        "Led the development of Universal TranWare's 'TranAir' Android app to let taxicab operators communicate with dispatch and securely process credit card transactions"
+        "Developed the NexTaxi Android and iOS application, allowing users to reserve and track their taxicab rides and make in-app payments",
+        "Led the development of Universal TranWare’s ‘TranAir’ Android app, enabling taxicab operators to communicate with dispatch and securely process credit card transactions"
       ]
     }
   ],
