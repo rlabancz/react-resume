@@ -24,7 +24,7 @@ export class Skills extends Component {
                         {data.map((skill, key) =>
                             <div className={`skillItem`} key={key}>
                                 <div className={`skillName`}>
-                                    {skill.name},
+                                    {skill.name}
                                 </div>
                                 {showSkillBar && skill.level ?
                                     <div className={`skillLevel`}>

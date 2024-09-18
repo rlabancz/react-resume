@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   width: 8.5in;
-  height: 11in;
+  height: 22in; /* adjust based on 11 * #pages */
   clear: both;
   page-break-after: always;
 }
