@@ -34,12 +34,12 @@
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
       "description": [
-        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>+1.9MM</strong> customers), Vehicle Ownership, and Messaging platform that impacts <strong>+6MM</strong> Tesla owners and <strong>+20MM</strong> accounts globally",
-        "Collaborate with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
-        "Currently manage 4 Sr. Software Engineers, providing mentorship and coaching in their growth and development <br>&bull; At peak, managed a team of <strong>13</strong> engineers, ranging from Jr. to Sr.",
+        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>1.9MM+</strong> customers), Vehicle Ownership, and Messaging platform that impacts <strong>6MM+</strong> Tesla owners and <strong>20MM+</strong> accounts globally",
+        "Led a high-performing team of <strong>13</strong> engineers at its peak, from Jr. to Sr. levels, providing mentorship, coaching, and professional development guidance; now focused on leading a team of 4 Sr. Software Engineers",
         "Oversee weekly code deployments with team leads and QA to ensure <strong>99.999%</strong> web and mobile service uptime",
+        "Collaborate with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
+        "Led the mobile app profile and side menu redesign effort, reducing account related customer support cases by <strong>30%</strong>",
         "Executed the launch of the Vehicle Demo App and increased test drives by <strong>21%</strong>",
-        "Led the mobile app profile section redesign and reduced account related customer support cases by <strong>30%</strong>",
         "Reduced deployment time of the splash screen and guest marketing pages via an API from <strong>days to minutes</strong> bypassing app store submission constraints",
         "Successfully transitioned multiple product lines from the web (React) to the mobile app with React Native to expand Tesla’s digital footprint and customer reach"
       ]
@@ -52,12 +52,12 @@
       "startDate": "Nov. 2019",
       "endDate": "Sept. 2022",
       "description": [
-        "Grew and managed a team from 3 to 13 staff, allowing for the creation of 4 new product lines for Tesla: Subscriptions, Ownership Transfer, Captive Leasing, and Contact Us (Knowledge Base Support with agent chat)",
-        "Reduced time-to-market for new vehicle subscription products to new locales via a JSON-driven api",
-        "Successfully launched Premium Connectivity via the web (later introduced in the mobile app), the first vehicle subscription service, bringing in <strong>1.4MM</strong> active subscriptions yearly",
-        "Created the capability for in-car vehicle subscription services, increasing additional source of revenue by <strong>40%</strong>",
+        "Grew and managed a team of Engineers and QA from 3 to 13, allowing for the creation of 4 new product lines for Tesla: Subscriptions, Ownership Transfer, Captive Leasing, and Contact Us (Knowledge Base Support with agent chat)",
+        "Successfully launched Premium Connectivity via the web (later introduced in the mobile app), the first vehicle subscription service, bringing in <strong>1.4MM+</strong> active subscriptions yearly",
+        "Created the capability for in-car vehicle subscription services leveraging existing backend APIs, increasing additional source of revenue by <strong>40%</strong>",
+        "Reduced time-to-market for new vehicle subscription products to new locales via a JSON-driven api without needing app store releases",
         "Advocated for and implemented the adoption of WCAG 2.1 standards to improve accessibility for Tesla users",
-        "<strong>One of 15</strong> digital team members that worked on secretive Cybertruck project; created the original CSS theme for Cybertruck on web <br>&bull; Maintained sign-up, event page, and live stream server for Cybertruck reveal <br>&bull; <strong>+140K</strong> reservation made within 24 hours of unveiling"
+        "<strong>One of 15</strong> digital team members that worked on secretive Cybertruck project; created the original CSS theme for Cybertruck on web <br>&bull; Maintained sign-up, event page, and live stream server for Cybertruck reveal <br>&bull; <strong>140K+</strong> reservation made within 24 hours of unveiling"
       ]
     },
     {
@@ -72,7 +72,7 @@
         "Developed and maintained the Model Y livestream sign-up and event page",
         "Created the reservation web pages for the Tesla Semi and Roadster with a $45K deposit; <strong>one of 5</strong> people entrusted with the entire web project",
         "Developed an Angular-based app that consumed JSON files to streamline translation processes which accelerated global expansion and product localization efforts; reduced manual labor for translators from <strong>days to hours<strong>",
-        "Built the Solar Roof marketing and reservation pages; saw <strong>+2000</strong> reservations within 24 hours of launch",
+        "Built the Solar Roof marketing and reservation pages; saw <strong>200+</strong> reservations within 24 hours of launch",
         "Integrated Solar City’s marketing and reservation pages into Tesla’s development environment after acquisition; provided knowledge transfer to Solar City engineers on Tesla’s development life cycle and code base"
       ]
     },
@@ -210,6 +210,10 @@
       "level": 3
     },
     {
+      "name": "Node JS",
+      "level": 3
+    },
+    {
       "name": "Android",
       "level": 3
     },
@@ -224,10 +228,12 @@
     {
       "name": "Splunk",
       "level": 3
-    },{
+    },
+    {
       "name": "Confluence",
       "level": 3
-    },{
+    },
+    {
       "name": "Jira",
       "level": 3
     }
