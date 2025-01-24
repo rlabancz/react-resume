@@ -33,14 +33,15 @@
       "location": "Fremont, CA",
       "website": "https://www.tesla.com",
       "startDate": "Sept. 2022",
+      "endDate": "Jan. 2025",
       "description": [
-        "Manage the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>1.9MM+</strong> customers), Vehicle Ownership, and Messaging platforms that impacts <strong>6MM+</strong> Tesla owners and <strong>20MM+</strong> accounts globally",
-        "Led a high-performing team of <strong>13</strong> engineers at its peak, from Jr. to Sr. levels, providing mentorship, coaching, and professional development guidance; now focused on leading a team of 4 Sr. Engineers and QA",
-        "Oversee weekly code deployments with team leads and QA, ensuring <strong>99.999%</strong> uptime for web and mobile services.",
-        "Collaborate with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
+        "Managed the web and mobile platforms for Upgrades & Subscriptions, Leasing (with <strong>1.9MM+</strong> customers), Vehicle Ownership, and Messaging platforms that impacts <strong>6MM+</strong> Tesla owners and <strong>20MM+</strong> accounts globally",
+        "Led a high-performing team of <strong>13</strong> Engineers and QA at its peak, from Jr. to Sr. levels, providing mentorship, coaching, and professional development guidance",
+        "Oversaw weekly code deployments with team leads and QA, ensuring <strong>99.999%</strong> uptime for web and mobile services.",
+        "Collaborated with Product to craft and refine quarterly roadmaps to align on both business and engineering priorities",
         "Led the mobile app profile and side menu redesign effort, reducing account related customer support cases by <strong>30%</strong>",
         "Executed the launch of the Vehicle Demo App and increased test drives by <strong>21%</strong>",
-        "Reduced deployment time for splash screens and guest marketing pages via an API, cutting time from <strong>days to minutes</strong> by bypassing app store submission constraints",
+        "Reduced deployment time for splash screens & guest marketing pages via an API, cutting time from <strong>days to minutes</strong>, bypassing app store submission constraints",
         "Successfully transitioned multiple product lines from the web (React) to mobile (React Native), expanding Tesla’s digital footprint and customer reach"
       ]
     },
