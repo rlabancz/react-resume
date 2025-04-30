@@ -28,6 +28,17 @@
   "objective": "",
   "work": [
     {
+      "company": "Scout Motors",
+      "title": "Senior Engineering Manager",
+      "location": "Fremont, CA",
+      "website": "https://www.scoutmotors.com",
+      "startDate": "Jan. 2025",
+      "description": [
+        "Manage the development and implementation of internal and customer facing applications for After Sales",
+        "Collaborate with cross-functional teams to ensure seamless integration and functionality of applications"
+      ]
+    },
+    {
       "company": "Tesla",
       "title": "Software Engineering Manager",
       "location": "Fremont, CA",
