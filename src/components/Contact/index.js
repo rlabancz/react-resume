@@ -12,28 +12,28 @@ export class Contact extends Component {
             data ?
                 theme === 'minimal' ?
                     <div className={styles['contact']}>
-                        {data.email} • {data.phone} • {data.location}
+                        {data.email ? `${data.email} •` : ''} {data.phone ? `${data.phone} •` : ''} {data.location ? `${data.location} •` : ''}
                     </div>
                     :
                     <div className='contactContainer'>
-                        <div className={`contactItem`}>
+                        {data.email ? <div className={`contactItem`}>
                             <div className={`material-icons-outlined contactIcon`}>mail</div>
                             <div className={`contactItem`}><a href={`mailto:${data.email}`}>{data.email}</a></div>
-                        </div>
-                        <div className={`contactItem`}>
+                        </div> : null }
+                        {data.phone ? <div className={`contactItem`}>
                             <div className={`material-icons-outlined contactIcon`}>call</div>
                             <div className={`contactItem`}><a href={`tel:${data.phone}`}>{data.phone}</a></div>
-                        </div>
-                        <div className={`contactItem`}>
+                        </div> : null }
+                        {data.location ? <div className={`contactItem`}>
                             <div className={`material-icons-outlined contactIcon`}>person_pin_circle</div>
                             <div className={`contactItem`}>{data.location}</div>
-                        </div>
-                        <div className={`contactItem`}>
+                        </div> : null }
+                        {data.github ? <div className={`contactItem`}>
                             <div className={`material-icons-outlined contactIcon`}>code</div>
                             <div className={`contactItem`}>
                                 <a href={`https://github.com/${data.github}`}>{data.github}</a>
                             </div>
-                        </div>
+                        </div> : null }
                         {data.socialMedia && data.socialMedia.map((socialMedia, key) =>
                             <div className={`contactItem`} key={key}>
                                 {socialMedia.icon ?
