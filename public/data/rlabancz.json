@@ -7,7 +7,7 @@
     "phone": "123-123-1234",
     "website": "https://rl-designs.ca/resume",
     "github": "rlabancz",
-    "title": "Software Engineering Manager",
+    "title": "Sr. Engineering Manager",
     "location": "Bay Area",
     "username": "rlabancz",
     "socialMedia": [
@@ -34,8 +34,10 @@
       "website": "https://www.scoutmotors.com",
       "startDate": "Jan. 2025",
       "description": [
-        "Manage the development and implementation of internal and customer facing applications for After Sales",
-        "Collaborate with cross-functional teams to ensure seamless integration and functionality of applications"
+        "Manage the development and implementation of internal-facing applications for After Sales, focusing on Service and Parts",
+        "Make key architectural decisions to support business-impacting scaling of applications and APIs",
+        "Lead a team of <strong>8 diverse</strong> software engineers across multiple time zones",
+        "Collaborate with cross-functional teams across multiple organizations to ensure seamless integration and functionality of applications"
       ]
     },
     {
@@ -73,7 +75,7 @@
       ]
     },
     {
-      "company": "",
+      "company": "Tesla",
       "title": "Senior Software Engineer",
       "location": "Fremont, CA",
       "website": "https://www.tesla.com",
